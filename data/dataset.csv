@@ -1,0 +1,1001 @@
+nama_usaha,sektor,modal_min,modal_max,persaingan,complexity,lokasi_cocok,potensi_margin,kebutuhan_keahlian,daya_beli_target
+Barbershop,Jasa,2000000,12000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,2000000,12000000,High,High,Perumahan,High,High,High
+Minimarket,Retail,7000000,10000000,Low,Low,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,2000000,12000000,Low,High,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,7000000,10000000,Medium,High,Kampus,High,Medium,High
+Toko ATK,Retail,3000000,13000000,Medium,Medium,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,3000000,8000000,Low,Low,Kampus,High,High,High
+Barbershop,Jasa,5000000,10000000,High,Medium,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,7000000,Low,High,Kampus,Medium,Low,Medium
+Minimarket,Retail,5000000,15000000,Low,High,Perumahan,Medium,Medium,Medium
+Toko ATK,Retail,3000000,8000000,Low,Low,Perumahan,Low,Low,Medium
+Kedai Kopi,Minuman,5000000,10000000,High,Medium,Perumahan,High,High,High
+Warung Sembako,Retail,5000000,8000000,High,Medium,Perkotaan,Low,Low,Medium
+Barbershop,Jasa,3000000,13000000,High,Low,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,7000000,12000000,High,High,Perkotaan,Medium,Low,Medium
+Laundry Kiloan,Jasa,5000000,8000000,Low,Low,Kampus,Medium,Medium,Medium
+Kedai Kopi,Minuman,5000000,8000000,Low,High,Perkotaan,High,High,High
+Warung Sembako,Retail,3000000,13000000,Medium,Medium,Perkotaan,Low,Low,Medium
+Cuci Motor,Jasa,3000000,8000000,Low,Low,Perkotaan,Medium,Low,Medium
+Percetakan Digital,Jasa,5000000,15000000,High,Medium,Perkotaan,High,Medium,High
+Kedai Kopi,Minuman,5000000,8000000,Low,High,Kampus,High,High,High
+Barbershop,Jasa,2000000,5000000,Low,High,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,2000000,7000000,Medium,High,Kampus,High,High,High
+Percetakan Digital,Jasa,5000000,15000000,Low,High,Perkotaan,High,Medium,High
+Barbershop,Jasa,5000000,15000000,Medium,Low,Kampus,Medium,Medium,Medium
+Kedai Kopi,Minuman,3000000,8000000,Low,High,Perkotaan,High,High,High
+Les Privat,Jasa,3000000,13000000,Low,High,Kampus,Medium,High,Medium
+Percetakan Digital,Jasa,3000000,6000000,Medium,Low,Perkotaan,High,Medium,High
+Percetakan Digital,Jasa,2000000,12000000,Medium,Medium,Perumahan,High,Medium,High
+Barbershop,Jasa,5000000,10000000,Low,Low,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,2000000,5000000,High,Medium,Perumahan,Medium,Medium,Medium
+Percetakan Digital,Jasa,3000000,6000000,High,Medium,Perkotaan,High,Medium,High
+Cafe Kekinian,Minuman,5000000,15000000,High,Medium,Perumahan,High,High,High
+Percetakan Digital,Jasa,3000000,13000000,Medium,Medium,Perkotaan,High,Medium,High
+Warung Sembako,Retail,7000000,17000000,Medium,Low,Perumahan,Low,Low,Medium
+Laundry Kiloan,Jasa,2000000,7000000,Low,High,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,3000000,6000000,Low,High,Perkotaan,Medium,Medium,Medium
+Toko ATK,Retail,3000000,6000000,Low,Medium,Perumahan,Low,Low,Medium
+Percetakan Digital,Jasa,3000000,8000000,High,Medium,Perumahan,High,Medium,High
+Percetakan Digital,Jasa,3000000,13000000,High,High,Kampus,High,Medium,High
+Laundry Kiloan,Jasa,7000000,12000000,Low,Low,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,5000000,10000000,Medium,Medium,Perkotaan,High,High,High
+Toko ATK,Retail,2000000,5000000,Medium,High,Kampus,Low,Low,Medium
+Barbershop,Jasa,3000000,6000000,Low,High,Kampus,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,10000000,Medium,Medium,Perumahan,High,High,High
+Barbershop,Jasa,7000000,17000000,Low,Low,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,2000000,5000000,Low,Low,Kampus,High,Medium,High
+Cuci Motor,Jasa,7000000,10000000,Medium,Low,Perumahan,Medium,Low,Medium
+Kedai Kopi,Minuman,2000000,7000000,Medium,Medium,Kampus,High,High,High
+Kedai Kopi,Minuman,7000000,10000000,Low,Medium,Perumahan,High,High,High
+Toko ATK,Retail,2000000,12000000,Medium,Low,Perumahan,Low,Low,Medium
+Minimarket,Retail,7000000,17000000,High,Low,Perumahan,Medium,Medium,Medium
+Percetakan Digital,Jasa,2000000,5000000,Low,High,Perumahan,High,Medium,High
+Laundry Kiloan,Jasa,7000000,10000000,High,Low,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,2000000,12000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,5000000,10000000,Low,High,Perkotaan,Medium,Medium,Medium
+Warung Sembako,Retail,3000000,8000000,Medium,Low,Perkotaan,Low,Low,Medium
+Les Privat,Jasa,7000000,12000000,Low,Low,Kampus,Medium,High,Medium
+Minimarket,Retail,2000000,5000000,High,Low,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,3000000,8000000,Low,Low,Kampus,Medium,High,Medium
+Les Privat,Jasa,3000000,8000000,High,High,Kampus,Medium,High,Medium
+Minimarket,Retail,2000000,12000000,High,Medium,Perkotaan,Medium,Medium,Medium
+Barbershop,Jasa,3000000,8000000,Low,Low,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,3000000,8000000,Medium,High,Perumahan,High,Medium,High
+Warung Sembako,Retail,3000000,13000000,High,Medium,Perkotaan,Low,Low,Medium
+Cuci Motor,Jasa,5000000,8000000,Low,High,Kampus,Medium,Low,Medium
+Les Privat,Jasa,2000000,5000000,Medium,Low,Perkotaan,Medium,High,Medium
+Les Privat,Jasa,3000000,13000000,Medium,High,Perkotaan,Medium,High,Medium
+Kedai Kopi,Minuman,2000000,5000000,Low,High,Perumahan,High,High,High
+Percetakan Digital,Jasa,2000000,7000000,High,High,Perumahan,High,Medium,High
+Kedai Kopi,Minuman,3000000,6000000,Medium,Medium,Perumahan,High,High,High
+Warung Sembako,Retail,3000000,13000000,Low,High,Perumahan,Low,Low,Medium
+Warung Sembako,Retail,7000000,17000000,High,Low,Perumahan,Low,Low,Medium
+Cafe Kekinian,Minuman,3000000,8000000,Low,Low,Perkotaan,High,High,High
+Warung Sembako,Retail,7000000,17000000,High,Low,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,2000000,7000000,Low,Medium,Perumahan,High,High,High
+Laundry Kiloan,Jasa,7000000,12000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Toko ATK,Retail,3000000,8000000,Medium,Medium,Perumahan,Low,Low,Medium
+Les Privat,Jasa,5000000,15000000,High,Medium,Perkotaan,Medium,High,Medium
+Percetakan Digital,Jasa,5000000,8000000,Low,Medium,Perumahan,High,Medium,High
+Minimarket,Retail,5000000,8000000,Low,High,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,5000000,10000000,High,High,Perumahan,Low,Low,Medium
+Kedai Kopi,Minuman,3000000,8000000,Low,High,Kampus,High,High,High
+Toko ATK,Retail,3000000,8000000,Medium,Low,Perkotaan,Low,Low,Medium
+Warung Sembako,Retail,5000000,15000000,Low,High,Kampus,Low,Low,Medium
+Percetakan Digital,Jasa,5000000,15000000,Medium,Medium,Kampus,High,Medium,High
+Les Privat,Jasa,3000000,6000000,Medium,High,Kampus,Medium,High,Medium
+Cafe Kekinian,Minuman,5000000,10000000,High,Low,Kampus,High,High,High
+Les Privat,Jasa,3000000,8000000,High,High,Perkotaan,Medium,High,Medium
+Warung Sembako,Retail,7000000,12000000,Medium,High,Perumahan,Low,Low,Medium
+Percetakan Digital,Jasa,7000000,17000000,Low,High,Perumahan,High,Medium,High
+Les Privat,Jasa,5000000,8000000,Low,High,Kampus,Medium,High,Medium
+Laundry Kiloan,Jasa,3000000,6000000,Low,Low,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,7000000,Medium,High,Perkotaan,Medium,Low,Medium
+Laundry Kiloan,Jasa,7000000,12000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Toko ATK,Retail,2000000,7000000,Low,Low,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,7000000,10000000,High,Low,Perumahan,High,Medium,High
+Cuci Motor,Jasa,3000000,8000000,High,High,Perkotaan,Medium,Low,Medium
+Minimarket,Retail,5000000,10000000,High,High,Perkotaan,Medium,Medium,Medium
+Kedai Kopi,Minuman,7000000,10000000,High,Medium,Kampus,High,High,High
+Les Privat,Jasa,3000000,13000000,Medium,High,Kampus,Medium,High,Medium
+Laundry Kiloan,Jasa,5000000,10000000,Low,High,Kampus,Medium,Medium,Medium
+Laundry Kiloan,Jasa,5000000,10000000,Medium,High,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,3000000,6000000,Medium,High,Perumahan,High,High,High
+Laundry Kiloan,Jasa,2000000,7000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Cuci Motor,Jasa,7000000,10000000,Low,Medium,Kampus,Medium,Low,Medium
+Minimarket,Retail,2000000,12000000,Medium,Medium,Perumahan,Medium,Medium,Medium
+Warung Sembako,Retail,5000000,10000000,Medium,High,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,3000000,8000000,Low,Medium,Kampus,High,Medium,High
+Cuci Motor,Jasa,2000000,7000000,Medium,High,Perkotaan,Medium,Low,Medium
+Kedai Kopi,Minuman,3000000,8000000,Low,High,Perkotaan,High,High,High
+Toko ATK,Retail,7000000,17000000,High,High,Perumahan,Low,Low,Medium
+Barbershop,Jasa,7000000,10000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Les Privat,Jasa,7000000,12000000,Low,Medium,Kampus,Medium,High,Medium
+Warung Sembako,Retail,7000000,12000000,Medium,Medium,Perumahan,Low,Low,Medium
+Cuci Motor,Jasa,2000000,12000000,High,Low,Kampus,Medium,Low,Medium
+Laundry Kiloan,Jasa,2000000,12000000,Low,Low,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,2000000,12000000,Low,Low,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,12000000,Low,Medium,Perkotaan,Medium,Low,Medium
+Les Privat,Jasa,5000000,8000000,High,High,Perkotaan,Medium,High,Medium
+Barbershop,Jasa,3000000,8000000,Low,High,Perumahan,Medium,Medium,Medium
+Les Privat,Jasa,7000000,12000000,High,Low,Perumahan,Medium,High,Medium
+Minimarket,Retail,3000000,6000000,High,Medium,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,2000000,12000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Kedai Kopi,Minuman,5000000,8000000,High,High,Kampus,High,High,High
+Toko ATK,Retail,7000000,12000000,Low,Medium,Kampus,Low,Low,Medium
+Cuci Motor,Jasa,3000000,8000000,Low,High,Perkotaan,Medium,Low,Medium
+Les Privat,Jasa,7000000,12000000,Medium,High,Perkotaan,Medium,High,Medium
+Les Privat,Jasa,5000000,8000000,Low,Medium,Kampus,Medium,High,Medium
+Laundry Kiloan,Jasa,7000000,17000000,High,High,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,2000000,7000000,Medium,Low,Kampus,Low,Low,Medium
+Laundry Kiloan,Jasa,5000000,10000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,2000000,12000000,Low,Low,Perumahan,Medium,High,Medium
+Kedai Kopi,Minuman,7000000,17000000,Low,High,Kampus,High,High,High
+Cuci Motor,Jasa,7000000,10000000,Low,Medium,Perumahan,Medium,Low,Medium
+Kedai Kopi,Minuman,3000000,8000000,High,High,Kampus,High,High,High
+Cuci Motor,Jasa,5000000,10000000,High,High,Kampus,Medium,Low,Medium
+Warung Sembako,Retail,7000000,12000000,Medium,Medium,Perumahan,Low,Low,Medium
+Barbershop,Jasa,3000000,8000000,Low,High,Perkotaan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,3000000,6000000,High,Medium,Kampus,High,High,High
+Minimarket,Retail,5000000,8000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Warung Sembako,Retail,3000000,8000000,Low,High,Perkotaan,Low,Low,Medium
+Cafe Kekinian,Minuman,5000000,8000000,Low,High,Kampus,High,High,High
+Cafe Kekinian,Minuman,7000000,10000000,Low,High,Kampus,High,High,High
+Cuci Motor,Jasa,7000000,12000000,Medium,Low,Perumahan,Medium,Low,Medium
+Les Privat,Jasa,7000000,10000000,Low,Medium,Kampus,Medium,High,Medium
+Barbershop,Jasa,2000000,5000000,Low,High,Kampus,Medium,Medium,Medium
+Barbershop,Jasa,3000000,6000000,High,Medium,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,3000000,13000000,Medium,Medium,Kampus,Medium,Medium,Medium
+Les Privat,Jasa,7000000,12000000,High,High,Perumahan,Medium,High,Medium
+Minimarket,Retail,2000000,5000000,High,Low,Kampus,Medium,Medium,Medium
+Barbershop,Jasa,3000000,6000000,Low,High,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,2000000,7000000,Medium,High,Perkotaan,High,High,High
+Cuci Motor,Jasa,5000000,8000000,Low,Medium,Perkotaan,Medium,Low,Medium
+Les Privat,Jasa,7000000,10000000,High,Low,Kampus,Medium,High,Medium
+Minimarket,Retail,3000000,8000000,Low,High,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,5000000,8000000,Low,Low,Perumahan,High,High,High
+Les Privat,Jasa,5000000,10000000,Low,Medium,Perkotaan,Medium,High,Medium
+Les Privat,Jasa,7000000,12000000,High,High,Kampus,Medium,High,Medium
+Cuci Motor,Jasa,2000000,12000000,Low,Medium,Perkotaan,Medium,Low,Medium
+Warung Sembako,Retail,5000000,8000000,Low,Low,Perkotaan,Low,Low,Medium
+Minimarket,Retail,2000000,12000000,Medium,High,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,17000000,High,Medium,Kampus,High,High,High
+Cafe Kekinian,Minuman,7000000,17000000,Medium,Low,Kampus,High,High,High
+Warung Sembako,Retail,7000000,12000000,Medium,High,Perumahan,Low,Low,Medium
+Cafe Kekinian,Minuman,5000000,10000000,High,Medium,Kampus,High,High,High
+Kedai Kopi,Minuman,2000000,7000000,Low,Medium,Kampus,High,High,High
+Warung Sembako,Retail,2000000,7000000,High,Low,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,7000000,12000000,Low,Low,Perkotaan,High,Medium,High
+Warung Sembako,Retail,7000000,17000000,Medium,Low,Perumahan,Low,Low,Medium
+Les Privat,Jasa,3000000,8000000,Medium,High,Kampus,Medium,High,Medium
+Barbershop,Jasa,2000000,12000000,High,Low,Perkotaan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,5000000,15000000,Low,High,Kampus,High,High,High
+Barbershop,Jasa,3000000,6000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,17000000,Medium,High,Perkotaan,High,High,High
+Les Privat,Jasa,7000000,12000000,Medium,Low,Kampus,Medium,High,Medium
+Percetakan Digital,Jasa,3000000,8000000,Low,High,Perkotaan,High,Medium,High
+Cafe Kekinian,Minuman,2000000,7000000,Medium,Medium,Perkotaan,High,High,High
+Les Privat,Jasa,2000000,7000000,High,Medium,Perkotaan,Medium,High,Medium
+Minimarket,Retail,7000000,10000000,Medium,High,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,5000000,15000000,High,Medium,Kampus,Low,Low,Medium
+Warung Sembako,Retail,3000000,13000000,Low,High,Kampus,Low,Low,Medium
+Laundry Kiloan,Jasa,7000000,10000000,Medium,High,Kampus,Medium,Medium,Medium
+Kedai Kopi,Minuman,7000000,17000000,High,Low,Kampus,High,High,High
+Toko ATK,Retail,3000000,13000000,High,Medium,Perumahan,Low,Low,Medium
+Cuci Motor,Jasa,2000000,12000000,Medium,Low,Perkotaan,Medium,Low,Medium
+Cafe Kekinian,Minuman,7000000,17000000,Low,Low,Kampus,High,High,High
+Les Privat,Jasa,5000000,15000000,High,Medium,Perkotaan,Medium,High,Medium
+Barbershop,Jasa,5000000,15000000,High,Medium,Kampus,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,12000000,Low,Low,Perkotaan,Medium,Low,Medium
+Les Privat,Jasa,3000000,13000000,Low,Medium,Perumahan,Medium,High,Medium
+Barbershop,Jasa,7000000,10000000,High,Medium,Perumahan,Medium,Medium,Medium
+Toko ATK,Retail,5000000,8000000,Medium,Medium,Kampus,Low,Low,Medium
+Kedai Kopi,Minuman,3000000,6000000,High,Medium,Perkotaan,High,High,High
+Cafe Kekinian,Minuman,3000000,6000000,Low,High,Kampus,High,High,High
+Minimarket,Retail,3000000,8000000,High,Low,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,5000000,10000000,Medium,High,Perumahan,Medium,Low,Medium
+Cuci Motor,Jasa,5000000,15000000,High,Low,Perumahan,Medium,Low,Medium
+Cuci Motor,Jasa,5000000,15000000,Medium,High,Kampus,Medium,Low,Medium
+Les Privat,Jasa,7000000,12000000,Low,Medium,Kampus,Medium,High,Medium
+Barbershop,Jasa,3000000,8000000,High,Medium,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,5000000,8000000,High,Medium,Kampus,Medium,High,Medium
+Toko ATK,Retail,2000000,12000000,High,Medium,Kampus,Low,Low,Medium
+Laundry Kiloan,Jasa,5000000,8000000,High,Low,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,3000000,13000000,Low,High,Perkotaan,Medium,High,Medium
+Toko ATK,Retail,5000000,10000000,Low,High,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,2000000,7000000,Medium,High,Kampus,High,High,High
+Cafe Kekinian,Minuman,3000000,6000000,High,Medium,Perkotaan,High,High,High
+Percetakan Digital,Jasa,5000000,8000000,Medium,Medium,Kampus,High,Medium,High
+Warung Sembako,Retail,2000000,7000000,Low,Low,Perumahan,Low,Low,Medium
+Kedai Kopi,Minuman,5000000,8000000,Medium,Low,Kampus,High,High,High
+Percetakan Digital,Jasa,2000000,7000000,Medium,High,Perkotaan,High,Medium,High
+Les Privat,Jasa,7000000,17000000,Medium,Low,Perkotaan,Medium,High,Medium
+Laundry Kiloan,Jasa,7000000,10000000,High,High,Kampus,Medium,Medium,Medium
+Minimarket,Retail,3000000,13000000,Low,High,Kampus,Medium,Medium,Medium
+Les Privat,Jasa,7000000,10000000,Low,Low,Perumahan,Medium,High,Medium
+Les Privat,Jasa,7000000,10000000,Low,Low,Perkotaan,Medium,High,Medium
+Cafe Kekinian,Minuman,7000000,12000000,Medium,High,Perkotaan,High,High,High
+Percetakan Digital,Jasa,7000000,17000000,High,High,Perumahan,High,Medium,High
+Kedai Kopi,Minuman,2000000,7000000,High,Medium,Kampus,High,High,High
+Toko ATK,Retail,5000000,8000000,Medium,Medium,Perumahan,Low,Low,Medium
+Warung Sembako,Retail,2000000,12000000,Medium,High,Perkotaan,Low,Low,Medium
+Warung Sembako,Retail,2000000,7000000,Medium,Low,Perumahan,Low,Low,Medium
+Cuci Motor,Jasa,2000000,12000000,Low,High,Perkotaan,Medium,Low,Medium
+Minimarket,Retail,2000000,5000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,3000000,6000000,High,Low,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,3000000,8000000,Low,High,Perumahan,Medium,Medium,Medium
+Les Privat,Jasa,3000000,6000000,High,Medium,Perumahan,Medium,High,Medium
+Barbershop,Jasa,2000000,5000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,5000000,8000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,17000000,Low,High,Perumahan,High,High,High
+Cuci Motor,Jasa,7000000,12000000,High,High,Perumahan,Medium,Low,Medium
+Cuci Motor,Jasa,3000000,13000000,Low,High,Perkotaan,Medium,Low,Medium
+Percetakan Digital,Jasa,5000000,10000000,High,Low,Perumahan,High,Medium,High
+Cuci Motor,Jasa,7000000,12000000,High,Low,Kampus,Medium,Low,Medium
+Cuci Motor,Jasa,2000000,5000000,Medium,High,Perumahan,Medium,Low,Medium
+Barbershop,Jasa,3000000,8000000,High,High,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,5000000,10000000,High,High,Kampus,High,Medium,High
+Cuci Motor,Jasa,7000000,10000000,High,Low,Perkotaan,Medium,Low,Medium
+Percetakan Digital,Jasa,3000000,8000000,Medium,Low,Kampus,High,Medium,High
+Warung Sembako,Retail,7000000,12000000,Medium,High,Perumahan,Low,Low,Medium
+Warung Sembako,Retail,7000000,12000000,High,Medium,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,7000000,10000000,Low,Low,Perumahan,High,High,High
+Kedai Kopi,Minuman,2000000,12000000,High,Medium,Perumahan,High,High,High
+Percetakan Digital,Jasa,2000000,12000000,High,High,Kampus,High,Medium,High
+Barbershop,Jasa,7000000,12000000,High,Medium,Perkotaan,Medium,Medium,Medium
+Toko ATK,Retail,5000000,15000000,Medium,Medium,Perumahan,Low,Low,Medium
+Minimarket,Retail,3000000,6000000,High,Medium,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,5000000,15000000,Medium,Low,Kampus,Medium,Medium,Medium
+Minimarket,Retail,3000000,8000000,High,High,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,2000000,12000000,High,High,Kampus,High,Medium,High
+Toko ATK,Retail,3000000,8000000,High,Medium,Kampus,Low,Low,Medium
+Warung Sembako,Retail,2000000,5000000,Low,High,Perkotaan,Low,Low,Medium
+Kedai Kopi,Minuman,2000000,5000000,High,High,Perumahan,High,High,High
+Barbershop,Jasa,3000000,8000000,Medium,Medium,Kampus,Medium,Medium,Medium
+Cafe Kekinian,Minuman,5000000,10000000,High,Medium,Perkotaan,High,High,High
+Minimarket,Retail,2000000,5000000,Low,Low,Perkotaan,Medium,Medium,Medium
+Toko ATK,Retail,2000000,7000000,Medium,High,Kampus,Low,Low,Medium
+Cuci Motor,Jasa,7000000,12000000,Medium,Low,Perkotaan,Medium,Low,Medium
+Barbershop,Jasa,5000000,10000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,7000000,17000000,High,Medium,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,7000000,17000000,Low,Low,Perumahan,Medium,Medium,Medium
+Les Privat,Jasa,3000000,6000000,Medium,Medium,Kampus,Medium,High,Medium
+Barbershop,Jasa,2000000,7000000,High,Medium,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,17000000,High,Low,Perkotaan,High,High,High
+Percetakan Digital,Jasa,5000000,8000000,Medium,High,Perumahan,High,Medium,High
+Kedai Kopi,Minuman,2000000,7000000,Low,Medium,Perkotaan,High,High,High
+Kedai Kopi,Minuman,7000000,17000000,High,Medium,Kampus,High,High,High
+Barbershop,Jasa,7000000,10000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Cuci Motor,Jasa,5000000,8000000,Medium,Low,Perumahan,Medium,Low,Medium
+Kedai Kopi,Minuman,7000000,17000000,Low,Medium,Kampus,High,High,High
+Warung Sembako,Retail,3000000,8000000,Low,Low,Perkotaan,Low,Low,Medium
+Barbershop,Jasa,3000000,8000000,Medium,High,Perkotaan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,3000000,6000000,Low,Medium,Perumahan,High,High,High
+Cafe Kekinian,Minuman,3000000,13000000,Low,Low,Perkotaan,High,High,High
+Cuci Motor,Jasa,7000000,17000000,High,Medium,Perkotaan,Medium,Low,Medium
+Minimarket,Retail,5000000,15000000,Medium,Low,Kampus,Medium,Medium,Medium
+Barbershop,Jasa,7000000,12000000,High,Medium,Kampus,Medium,Medium,Medium
+Minimarket,Retail,2000000,7000000,High,Low,Kampus,Medium,Medium,Medium
+Cuci Motor,Jasa,7000000,10000000,Low,Medium,Kampus,Medium,Low,Medium
+Barbershop,Jasa,2000000,12000000,High,High,Kampus,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,7000000,High,High,Perumahan,Medium,Low,Medium
+Warung Sembako,Retail,7000000,17000000,Low,Low,Kampus,Low,Low,Medium
+Barbershop,Jasa,5000000,15000000,Low,High,Perkotaan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,2000000,5000000,High,Medium,Kampus,High,High,High
+Percetakan Digital,Jasa,3000000,8000000,Medium,Medium,Kampus,High,Medium,High
+Kedai Kopi,Minuman,5000000,15000000,High,Low,Perkotaan,High,High,High
+Warung Sembako,Retail,2000000,7000000,Low,High,Perkotaan,Low,Low,Medium
+Kedai Kopi,Minuman,5000000,10000000,High,High,Perkotaan,High,High,High
+Cafe Kekinian,Minuman,5000000,8000000,High,High,Perumahan,High,High,High
+Warung Sembako,Retail,5000000,15000000,High,High,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,2000000,7000000,High,Medium,Perkotaan,High,High,High
+Warung Sembako,Retail,3000000,13000000,High,High,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,2000000,12000000,High,Medium,Perkotaan,High,Medium,High
+Warung Sembako,Retail,2000000,7000000,Medium,Low,Perumahan,Low,Low,Medium
+Warung Sembako,Retail,7000000,10000000,Low,Low,Perumahan,Low,Low,Medium
+Barbershop,Jasa,5000000,8000000,High,High,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,2000000,12000000,Medium,High,Perumahan,High,Medium,High
+Minimarket,Retail,7000000,10000000,Low,Low,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,3000000,13000000,Medium,Low,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,3000000,8000000,High,Medium,Perkotaan,Low,Low,Medium
+Cuci Motor,Jasa,3000000,13000000,Low,Medium,Kampus,Medium,Low,Medium
+Laundry Kiloan,Jasa,5000000,15000000,High,Medium,Kampus,Medium,Medium,Medium
+Les Privat,Jasa,7000000,17000000,High,Medium,Perumahan,Medium,High,Medium
+Laundry Kiloan,Jasa,3000000,8000000,Low,High,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,2000000,12000000,High,Low,Kampus,Low,Low,Medium
+Barbershop,Jasa,3000000,8000000,Medium,High,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,2000000,5000000,Medium,Medium,Perumahan,High,High,High
+Kedai Kopi,Minuman,2000000,7000000,High,Medium,Perumahan,High,High,High
+Kedai Kopi,Minuman,2000000,7000000,Low,Low,Kampus,High,High,High
+Barbershop,Jasa,5000000,8000000,Low,Low,Kampus,Medium,Medium,Medium
+Cuci Motor,Jasa,3000000,13000000,Medium,Medium,Perkotaan,Medium,Low,Medium
+Toko ATK,Retail,2000000,5000000,Medium,Low,Perumahan,Low,Low,Medium
+Percetakan Digital,Jasa,7000000,10000000,Medium,Low,Kampus,High,Medium,High
+Barbershop,Jasa,2000000,5000000,Medium,High,Perkotaan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,5000000,Medium,High,Perkotaan,Medium,Low,Medium
+Toko ATK,Retail,3000000,13000000,Low,Medium,Kampus,Low,Low,Medium
+Toko ATK,Retail,5000000,8000000,High,Medium,Perumahan,Low,Low,Medium
+Barbershop,Jasa,5000000,8000000,High,High,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,2000000,7000000,Medium,Low,Perkotaan,High,Medium,High
+Kedai Kopi,Minuman,5000000,10000000,High,Low,Kampus,High,High,High
+Barbershop,Jasa,5000000,8000000,High,High,Perkotaan,Medium,Medium,Medium
+Barbershop,Jasa,5000000,8000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Warung Sembako,Retail,3000000,13000000,Medium,High,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,3000000,6000000,High,Medium,Perumahan,High,High,High
+Les Privat,Jasa,3000000,6000000,Low,Low,Kampus,Medium,High,Medium
+Les Privat,Jasa,7000000,17000000,Medium,Medium,Perumahan,Medium,High,Medium
+Laundry Kiloan,Jasa,5000000,10000000,Low,High,Kampus,Medium,Medium,Medium
+Les Privat,Jasa,2000000,7000000,Medium,Medium,Perkotaan,Medium,High,Medium
+Cuci Motor,Jasa,7000000,12000000,Low,Medium,Perkotaan,Medium,Low,Medium
+Cuci Motor,Jasa,5000000,15000000,Medium,Low,Perkotaan,Medium,Low,Medium
+Kedai Kopi,Minuman,2000000,7000000,High,Low,Perkotaan,High,High,High
+Les Privat,Jasa,5000000,8000000,Low,Medium,Perkotaan,Medium,High,Medium
+Les Privat,Jasa,5000000,10000000,High,High,Kampus,Medium,High,Medium
+Cafe Kekinian,Minuman,7000000,12000000,Medium,Low,Perkotaan,High,High,High
+Warung Sembako,Retail,7000000,12000000,High,Low,Perumahan,Low,Low,Medium
+Kedai Kopi,Minuman,5000000,15000000,High,High,Perumahan,High,High,High
+Toko ATK,Retail,3000000,13000000,High,Medium,Perumahan,Low,Low,Medium
+Cafe Kekinian,Minuman,2000000,5000000,High,Medium,Kampus,High,High,High
+Kedai Kopi,Minuman,2000000,12000000,Low,High,Kampus,High,High,High
+Warung Sembako,Retail,5000000,10000000,Low,High,Perumahan,Low,Low,Medium
+Percetakan Digital,Jasa,5000000,10000000,Medium,High,Kampus,High,Medium,High
+Laundry Kiloan,Jasa,2000000,5000000,High,Low,Kampus,Medium,Medium,Medium
+Percetakan Digital,Jasa,7000000,17000000,Low,Medium,Kampus,High,Medium,High
+Cuci Motor,Jasa,3000000,13000000,Medium,High,Kampus,Medium,Low,Medium
+Laundry Kiloan,Jasa,2000000,5000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,12000000,Medium,High,Kampus,Medium,Low,Medium
+Barbershop,Jasa,5000000,10000000,Low,High,Perkotaan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,5000000,15000000,Low,Low,Perumahan,High,High,High
+Cafe Kekinian,Minuman,3000000,8000000,Low,Medium,Perkotaan,High,High,High
+Minimarket,Retail,5000000,10000000,High,Low,Perkotaan,Medium,Medium,Medium
+Barbershop,Jasa,2000000,7000000,Medium,High,Perkotaan,Medium,Medium,Medium
+Cuci Motor,Jasa,7000000,12000000,High,Low,Perumahan,Medium,Low,Medium
+Warung Sembako,Retail,2000000,7000000,Medium,High,Perkotaan,Low,Low,Medium
+Warung Sembako,Retail,3000000,13000000,High,High,Perumahan,Low,Low,Medium
+Cafe Kekinian,Minuman,7000000,17000000,Low,Low,Perkotaan,High,High,High
+Cafe Kekinian,Minuman,5000000,8000000,Low,Medium,Perkotaan,High,High,High
+Laundry Kiloan,Jasa,5000000,15000000,Medium,Low,Kampus,Medium,Medium,Medium
+Laundry Kiloan,Jasa,5000000,8000000,High,Medium,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,2000000,12000000,High,Low,Perkotaan,High,Medium,High
+Minimarket,Retail,3000000,6000000,High,High,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,5000000,15000000,Low,Low,Perumahan,Medium,Medium,Medium
+Toko ATK,Retail,5000000,15000000,Low,High,Kampus,Low,Low,Medium
+Minimarket,Retail,2000000,7000000,High,High,Kampus,Medium,Medium,Medium
+Les Privat,Jasa,7000000,10000000,High,Medium,Kampus,Medium,High,Medium
+Cuci Motor,Jasa,2000000,12000000,Low,Low,Kampus,Medium,Low,Medium
+Kedai Kopi,Minuman,7000000,12000000,Low,Medium,Perkotaan,High,High,High
+Cafe Kekinian,Minuman,5000000,15000000,Medium,High,Kampus,High,High,High
+Kedai Kopi,Minuman,3000000,8000000,High,High,Perumahan,High,High,High
+Warung Sembako,Retail,3000000,8000000,Low,Medium,Kampus,Low,Low,Medium
+Laundry Kiloan,Jasa,3000000,6000000,Low,Medium,Kampus,Medium,Medium,Medium
+Minimarket,Retail,7000000,10000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Warung Sembako,Retail,3000000,6000000,Medium,High,Kampus,Low,Low,Medium
+Cuci Motor,Jasa,5000000,10000000,Low,Low,Kampus,Medium,Low,Medium
+Percetakan Digital,Jasa,7000000,10000000,Low,High,Kampus,High,Medium,High
+Toko ATK,Retail,2000000,7000000,Medium,High,Perkotaan,Low,Low,Medium
+Cuci Motor,Jasa,5000000,15000000,Low,Low,Kampus,Medium,Low,Medium
+Cafe Kekinian,Minuman,5000000,15000000,Medium,Medium,Kampus,High,High,High
+Toko ATK,Retail,7000000,10000000,High,High,Perumahan,Low,Low,Medium
+Warung Sembako,Retail,5000000,8000000,Medium,High,Kampus,Low,Low,Medium
+Percetakan Digital,Jasa,5000000,15000000,High,High,Perumahan,High,Medium,High
+Cafe Kekinian,Minuman,2000000,7000000,Medium,Medium,Perkotaan,High,High,High
+Warung Sembako,Retail,3000000,6000000,High,High,Kampus,Low,Low,Medium
+Percetakan Digital,Jasa,2000000,5000000,Low,Low,Perkotaan,High,Medium,High
+Warung Sembako,Retail,7000000,17000000,Medium,Low,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,3000000,8000000,High,Medium,Perumahan,High,Medium,High
+Kedai Kopi,Minuman,5000000,15000000,Medium,High,Perkotaan,High,High,High
+Percetakan Digital,Jasa,7000000,17000000,High,Medium,Kampus,High,Medium,High
+Toko ATK,Retail,5000000,10000000,High,Low,Kampus,Low,Low,Medium
+Minimarket,Retail,5000000,15000000,High,High,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,7000000,12000000,High,High,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,2000000,12000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,7000000,10000000,High,Low,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,2000000,5000000,Low,Medium,Kampus,Medium,Medium,Medium
+Kedai Kopi,Minuman,3000000,8000000,High,Low,Kampus,High,High,High
+Percetakan Digital,Jasa,7000000,17000000,High,Low,Perkotaan,High,Medium,High
+Cafe Kekinian,Minuman,3000000,13000000,Medium,High,Kampus,High,High,High
+Percetakan Digital,Jasa,7000000,12000000,Low,Medium,Perkotaan,High,Medium,High
+Warung Sembako,Retail,5000000,15000000,High,High,Perkotaan,Low,Low,Medium
+Les Privat,Jasa,7000000,10000000,Low,Medium,Perkotaan,Medium,High,Medium
+Les Privat,Jasa,3000000,8000000,Medium,High,Perumahan,Medium,High,Medium
+Cuci Motor,Jasa,5000000,10000000,Medium,High,Perkotaan,Medium,Low,Medium
+Les Privat,Jasa,5000000,8000000,High,High,Perkotaan,Medium,High,Medium
+Kedai Kopi,Minuman,7000000,12000000,Low,Medium,Perumahan,High,High,High
+Les Privat,Jasa,2000000,7000000,Medium,High,Kampus,Medium,High,Medium
+Cuci Motor,Jasa,3000000,6000000,High,Medium,Perkotaan,Medium,Low,Medium
+Les Privat,Jasa,3000000,6000000,High,High,Perkotaan,Medium,High,Medium
+Laundry Kiloan,Jasa,3000000,6000000,High,High,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,2000000,5000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,12000000,Low,Low,Perkotaan,Medium,Low,Medium
+Cafe Kekinian,Minuman,7000000,17000000,Medium,Medium,Perkotaan,High,High,High
+Laundry Kiloan,Jasa,5000000,10000000,Medium,High,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,3000000,13000000,High,High,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,10000000,Low,Medium,Kampus,High,High,High
+Cafe Kekinian,Minuman,5000000,8000000,Low,Medium,Perkotaan,High,High,High
+Minimarket,Retail,2000000,7000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,7000000,10000000,High,Medium,Kampus,High,Medium,High
+Laundry Kiloan,Jasa,2000000,7000000,Low,High,Kampus,Medium,Medium,Medium
+Les Privat,Jasa,3000000,6000000,High,Medium,Kampus,Medium,High,Medium
+Minimarket,Retail,3000000,6000000,High,High,Kampus,Medium,Medium,Medium
+Kedai Kopi,Minuman,5000000,8000000,Medium,High,Perumahan,High,High,High
+Cafe Kekinian,Minuman,3000000,8000000,Medium,Low,Perumahan,High,High,High
+Les Privat,Jasa,7000000,10000000,Medium,Medium,Kampus,Medium,High,Medium
+Les Privat,Jasa,2000000,7000000,High,Medium,Perkotaan,Medium,High,Medium
+Laundry Kiloan,Jasa,2000000,12000000,Low,Medium,Kampus,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,17000000,High,High,Kampus,High,High,High
+Barbershop,Jasa,5000000,10000000,High,Low,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,10000000,Medium,High,Perkotaan,High,High,High
+Warung Sembako,Retail,7000000,17000000,High,Medium,Perkotaan,Low,Low,Medium
+Laundry Kiloan,Jasa,3000000,13000000,High,Low,Perkotaan,Medium,Medium,Medium
+Cuci Motor,Jasa,5000000,8000000,High,Low,Perumahan,Medium,Low,Medium
+Percetakan Digital,Jasa,3000000,13000000,High,Low,Perumahan,High,Medium,High
+Warung Sembako,Retail,7000000,10000000,High,Low,Perkotaan,Low,Low,Medium
+Minimarket,Retail,7000000,10000000,High,Medium,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,3000000,13000000,Medium,Medium,Perkotaan,Medium,Low,Medium
+Toko ATK,Retail,7000000,17000000,Medium,High,Perumahan,Low,Low,Medium
+Kedai Kopi,Minuman,5000000,8000000,High,Low,Perkotaan,High,High,High
+Barbershop,Jasa,2000000,7000000,Medium,High,Perumahan,Medium,Medium,Medium
+Percetakan Digital,Jasa,2000000,5000000,Medium,Low,Kampus,High,Medium,High
+Kedai Kopi,Minuman,3000000,6000000,High,High,Perkotaan,High,High,High
+Kedai Kopi,Minuman,5000000,10000000,Medium,Medium,Kampus,High,High,High
+Barbershop,Jasa,3000000,13000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Percetakan Digital,Jasa,7000000,17000000,Low,High,Perumahan,High,Medium,High
+Toko ATK,Retail,2000000,7000000,Medium,High,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,7000000,17000000,Medium,Low,Perumahan,High,Medium,High
+Cuci Motor,Jasa,5000000,8000000,Medium,Low,Perkotaan,Medium,Low,Medium
+Barbershop,Jasa,2000000,12000000,Medium,High,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,3000000,6000000,Low,High,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,5000000,High,Low,Kampus,Medium,Low,Medium
+Cuci Motor,Jasa,3000000,13000000,Low,Low,Perumahan,Medium,Low,Medium
+Percetakan Digital,Jasa,5000000,8000000,High,High,Kampus,High,Medium,High
+Minimarket,Retail,5000000,8000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,3000000,8000000,Medium,Medium,Perumahan,High,Medium,High
+Percetakan Digital,Jasa,3000000,13000000,High,Medium,Perkotaan,High,Medium,High
+Cuci Motor,Jasa,2000000,7000000,High,High,Kampus,Medium,Low,Medium
+Percetakan Digital,Jasa,5000000,15000000,Medium,Medium,Perumahan,High,Medium,High
+Les Privat,Jasa,7000000,10000000,High,Medium,Perumahan,Medium,High,Medium
+Laundry Kiloan,Jasa,5000000,15000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Percetakan Digital,Jasa,7000000,12000000,High,High,Perumahan,High,Medium,High
+Kedai Kopi,Minuman,3000000,8000000,Low,Medium,Perkotaan,High,High,High
+Barbershop,Jasa,7000000,12000000,Low,High,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,2000000,7000000,Medium,High,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,2000000,5000000,Low,High,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,3000000,8000000,Low,Medium,Kampus,High,Medium,High
+Toko ATK,Retail,3000000,6000000,High,Low,Perkotaan,Low,Low,Medium
+Cuci Motor,Jasa,3000000,13000000,High,High,Perumahan,Medium,Low,Medium
+Kedai Kopi,Minuman,3000000,13000000,Medium,Medium,Kampus,High,High,High
+Cuci Motor,Jasa,5000000,10000000,Medium,Medium,Perkotaan,Medium,Low,Medium
+Cuci Motor,Jasa,7000000,10000000,High,Medium,Kampus,Medium,Low,Medium
+Laundry Kiloan,Jasa,5000000,10000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,3000000,6000000,Medium,High,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,7000000,12000000,Low,Low,Kampus,Medium,Medium,Medium
+Laundry Kiloan,Jasa,7000000,17000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Warung Sembako,Retail,5000000,10000000,High,High,Perkotaan,Low,Low,Medium
+Cuci Motor,Jasa,7000000,10000000,High,Medium,Perumahan,Medium,Low,Medium
+Cafe Kekinian,Minuman,7000000,10000000,High,High,Perumahan,High,High,High
+Percetakan Digital,Jasa,2000000,5000000,High,Low,Perumahan,High,Medium,High
+Kedai Kopi,Minuman,3000000,13000000,Low,Low,Perkotaan,High,High,High
+Cafe Kekinian,Minuman,2000000,5000000,High,Medium,Kampus,High,High,High
+Toko ATK,Retail,7000000,17000000,Medium,Low,Perumahan,Low,Low,Medium
+Percetakan Digital,Jasa,7000000,10000000,Low,High,Perkotaan,High,Medium,High
+Les Privat,Jasa,5000000,8000000,High,High,Perkotaan,Medium,High,Medium
+Kedai Kopi,Minuman,3000000,6000000,Low,High,Perumahan,High,High,High
+Laundry Kiloan,Jasa,3000000,13000000,High,Medium,Kampus,Medium,Medium,Medium
+Les Privat,Jasa,7000000,10000000,Medium,Medium,Kampus,Medium,High,Medium
+Minimarket,Retail,3000000,13000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Barbershop,Jasa,2000000,5000000,Medium,Medium,Kampus,Medium,Medium,Medium
+Percetakan Digital,Jasa,7000000,10000000,High,Low,Perkotaan,High,Medium,High
+Cafe Kekinian,Minuman,2000000,7000000,Medium,High,Kampus,High,High,High
+Minimarket,Retail,2000000,12000000,Low,Low,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,7000000,12000000,Low,Low,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,2000000,5000000,Medium,Low,Perumahan,Medium,High,Medium
+Minimarket,Retail,3000000,13000000,Medium,Low,Kampus,Medium,Medium,Medium
+Cafe Kekinian,Minuman,3000000,13000000,Medium,High,Perkotaan,High,High,High
+Warung Sembako,Retail,7000000,17000000,Low,High,Perkotaan,Low,Low,Medium
+Barbershop,Jasa,5000000,8000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,5000000,15000000,High,High,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,2000000,12000000,Medium,Medium,Kampus,Low,Low,Medium
+Laundry Kiloan,Jasa,5000000,15000000,Medium,Medium,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,7000000,10000000,High,Medium,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,2000000,7000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,12000000,Medium,Low,Perumahan,High,High,High
+Toko ATK,Retail,5000000,10000000,Medium,Medium,Perumahan,Low,Low,Medium
+Cafe Kekinian,Minuman,2000000,5000000,Medium,Medium,Perkotaan,High,High,High
+Percetakan Digital,Jasa,7000000,10000000,Low,Low,Kampus,High,Medium,High
+Percetakan Digital,Jasa,2000000,12000000,High,Medium,Kampus,High,Medium,High
+Toko ATK,Retail,5000000,10000000,Medium,Low,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,3000000,13000000,High,Low,Perkotaan,High,Medium,High
+Kedai Kopi,Minuman,3000000,6000000,Medium,Medium,Kampus,High,High,High
+Cuci Motor,Jasa,3000000,6000000,Low,Medium,Kampus,Medium,Low,Medium
+Kedai Kopi,Minuman,5000000,10000000,Low,Medium,Kampus,High,High,High
+Laundry Kiloan,Jasa,7000000,17000000,High,Low,Kampus,Medium,Medium,Medium
+Barbershop,Jasa,3000000,8000000,Low,Medium,Kampus,Medium,Medium,Medium
+Minimarket,Retail,7000000,12000000,Medium,Medium,Kampus,Medium,Medium,Medium
+Minimarket,Retail,3000000,8000000,Medium,High,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,7000000,12000000,Low,Medium,Kampus,Medium,Medium,Medium
+Les Privat,Jasa,7000000,17000000,Low,Medium,Kampus,Medium,High,Medium
+Les Privat,Jasa,7000000,12000000,Low,High,Perumahan,Medium,High,Medium
+Minimarket,Retail,3000000,13000000,High,Low,Perkotaan,Medium,Medium,Medium
+Cuci Motor,Jasa,3000000,8000000,Medium,High,Perumahan,Medium,Low,Medium
+Kedai Kopi,Minuman,7000000,10000000,High,Medium,Perumahan,High,High,High
+Les Privat,Jasa,3000000,13000000,Medium,Medium,Perumahan,Medium,High,Medium
+Cuci Motor,Jasa,7000000,17000000,Medium,High,Perkotaan,Medium,Low,Medium
+Kedai Kopi,Minuman,2000000,7000000,High,High,Perkotaan,High,High,High
+Barbershop,Jasa,2000000,5000000,High,High,Kampus,Medium,Medium,Medium
+Cafe Kekinian,Minuman,2000000,12000000,High,High,Perkotaan,High,High,High
+Kedai Kopi,Minuman,5000000,10000000,Low,Low,Perumahan,High,High,High
+Les Privat,Jasa,3000000,13000000,High,High,Perkotaan,Medium,High,Medium
+Minimarket,Retail,3000000,8000000,Medium,Medium,Kampus,Medium,Medium,Medium
+Minimarket,Retail,3000000,8000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Les Privat,Jasa,7000000,10000000,Low,High,Perumahan,Medium,High,Medium
+Warung Sembako,Retail,5000000,10000000,Medium,Low,Perkotaan,Low,Low,Medium
+Cuci Motor,Jasa,5000000,10000000,Low,Medium,Perkotaan,Medium,Low,Medium
+Cuci Motor,Jasa,5000000,8000000,Medium,Low,Perkotaan,Medium,Low,Medium
+Barbershop,Jasa,2000000,7000000,High,Low,Perkotaan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,3000000,13000000,Low,High,Perumahan,High,High,High
+Warung Sembako,Retail,7000000,12000000,Low,Medium,Perkotaan,Low,Low,Medium
+Cafe Kekinian,Minuman,3000000,13000000,High,Medium,Kampus,High,High,High
+Toko ATK,Retail,3000000,8000000,High,Medium,Kampus,Low,Low,Medium
+Toko ATK,Retail,3000000,6000000,Medium,High,Perumahan,Low,Low,Medium
+Minimarket,Retail,2000000,12000000,Low,Medium,Kampus,Medium,Medium,Medium
+Laundry Kiloan,Jasa,7000000,10000000,Medium,High,Kampus,Medium,Medium,Medium
+Percetakan Digital,Jasa,5000000,15000000,Medium,High,Kampus,High,Medium,High
+Minimarket,Retail,2000000,7000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,5000000,15000000,High,Low,Perkotaan,High,High,High
+Cafe Kekinian,Minuman,5000000,8000000,Low,Medium,Perumahan,High,High,High
+Cafe Kekinian,Minuman,5000000,15000000,Low,High,Kampus,High,High,High
+Kedai Kopi,Minuman,3000000,13000000,Medium,Medium,Perumahan,High,High,High
+Cuci Motor,Jasa,3000000,13000000,Low,Medium,Kampus,Medium,Low,Medium
+Cafe Kekinian,Minuman,3000000,8000000,Medium,High,Perumahan,High,High,High
+Warung Sembako,Retail,2000000,7000000,Low,Low,Kampus,Low,Low,Medium
+Percetakan Digital,Jasa,7000000,12000000,High,Medium,Kampus,High,Medium,High
+Cuci Motor,Jasa,7000000,10000000,Low,High,Perumahan,Medium,Low,Medium
+Laundry Kiloan,Jasa,5000000,8000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,3000000,8000000,High,High,Kampus,Medium,High,Medium
+Percetakan Digital,Jasa,2000000,12000000,Low,Medium,Perkotaan,High,Medium,High
+Warung Sembako,Retail,2000000,12000000,Medium,High,Perumahan,Low,Low,Medium
+Kedai Kopi,Minuman,2000000,12000000,High,Low,Kampus,High,High,High
+Toko ATK,Retail,7000000,12000000,Medium,Low,Kampus,Low,Low,Medium
+Barbershop,Jasa,3000000,6000000,High,High,Perkotaan,Medium,Medium,Medium
+Warung Sembako,Retail,7000000,10000000,High,Low,Perumahan,Low,Low,Medium
+Laundry Kiloan,Jasa,2000000,12000000,Medium,High,Kampus,Medium,Medium,Medium
+Minimarket,Retail,3000000,8000000,High,Medium,Kampus,Medium,Medium,Medium
+Minimarket,Retail,5000000,15000000,High,Low,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,2000000,7000000,High,Low,Perkotaan,High,High,High
+Cafe Kekinian,Minuman,3000000,6000000,High,Medium,Perumahan,High,High,High
+Kedai Kopi,Minuman,7000000,10000000,High,High,Kampus,High,High,High
+Kedai Kopi,Minuman,7000000,12000000,Low,High,Perumahan,High,High,High
+Kedai Kopi,Minuman,5000000,15000000,Medium,Medium,Kampus,High,High,High
+Warung Sembako,Retail,2000000,12000000,Low,High,Kampus,Low,Low,Medium
+Warung Sembako,Retail,2000000,12000000,Medium,Low,Kampus,Low,Low,Medium
+Laundry Kiloan,Jasa,7000000,12000000,Medium,Medium,Kampus,Medium,Medium,Medium
+Percetakan Digital,Jasa,3000000,13000000,Medium,Medium,Perkotaan,High,Medium,High
+Toko ATK,Retail,2000000,5000000,High,Medium,Perumahan,Low,Low,Medium
+Barbershop,Jasa,3000000,8000000,Medium,Low,Kampus,Medium,Medium,Medium
+Laundry Kiloan,Jasa,3000000,13000000,Medium,Low,Kampus,Medium,Medium,Medium
+Barbershop,Jasa,5000000,10000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,2000000,7000000,High,Medium,Perkotaan,High,High,High
+Laundry Kiloan,Jasa,7000000,17000000,Low,High,Perumahan,Medium,Medium,Medium
+Toko ATK,Retail,3000000,8000000,Low,Low,Perkotaan,Low,Low,Medium
+Laundry Kiloan,Jasa,7000000,10000000,Low,High,Kampus,Medium,Medium,Medium
+Barbershop,Jasa,7000000,17000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,7000000,10000000,High,Low,Perumahan,Medium,Medium,Medium
+Warung Sembako,Retail,5000000,10000000,Low,Medium,Perumahan,Low,Low,Medium
+Cafe Kekinian,Minuman,2000000,12000000,High,Low,Perkotaan,High,High,High
+Cafe Kekinian,Minuman,7000000,12000000,High,Low,Perkotaan,High,High,High
+Cafe Kekinian,Minuman,7000000,17000000,High,Medium,Perumahan,High,High,High
+Barbershop,Jasa,2000000,5000000,Low,High,Perkotaan,Medium,Medium,Medium
+Kedai Kopi,Minuman,5000000,10000000,Medium,Low,Perumahan,High,High,High
+Les Privat,Jasa,2000000,5000000,High,High,Perkotaan,Medium,High,Medium
+Minimarket,Retail,5000000,15000000,Low,High,Kampus,Medium,Medium,Medium
+Laundry Kiloan,Jasa,3000000,13000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Toko ATK,Retail,3000000,8000000,Medium,Low,Perumahan,Low,Low,Medium
+Cuci Motor,Jasa,2000000,12000000,Low,Medium,Kampus,Medium,Low,Medium
+Cafe Kekinian,Minuman,7000000,17000000,Medium,Medium,Perkotaan,High,High,High
+Cafe Kekinian,Minuman,7000000,10000000,Low,High,Perumahan,High,High,High
+Toko ATK,Retail,5000000,8000000,Low,Low,Kampus,Low,Low,Medium
+Percetakan Digital,Jasa,5000000,15000000,High,High,Kampus,High,Medium,High
+Kedai Kopi,Minuman,7000000,10000000,High,High,Perkotaan,High,High,High
+Minimarket,Retail,3000000,8000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Percetakan Digital,Jasa,3000000,6000000,High,Medium,Kampus,High,Medium,High
+Minimarket,Retail,2000000,7000000,High,Medium,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,2000000,5000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,7000000,High,High,Perkotaan,Medium,Low,Medium
+Cafe Kekinian,Minuman,2000000,5000000,High,Low,Perkotaan,High,High,High
+Toko ATK,Retail,3000000,8000000,Medium,High,Perkotaan,Low,Low,Medium
+Les Privat,Jasa,3000000,8000000,Low,High,Kampus,Medium,High,Medium
+Barbershop,Jasa,2000000,7000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Barbershop,Jasa,5000000,15000000,High,High,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,7000000,17000000,Medium,Low,Kampus,Medium,Low,Medium
+Minimarket,Retail,3000000,8000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,2000000,5000000,High,High,Perumahan,Medium,Medium,Medium
+Toko ATK,Retail,2000000,5000000,Low,Medium,Kampus,Low,Low,Medium
+Kedai Kopi,Minuman,3000000,6000000,Low,High,Perkotaan,High,High,High
+Kedai Kopi,Minuman,3000000,8000000,Low,Medium,Perkotaan,High,High,High
+Warung Sembako,Retail,5000000,8000000,High,Medium,Perumahan,Low,Low,Medium
+Percetakan Digital,Jasa,2000000,5000000,Low,High,Perumahan,High,Medium,High
+Kedai Kopi,Minuman,2000000,7000000,Medium,Medium,Kampus,High,High,High
+Barbershop,Jasa,7000000,10000000,Medium,Low,Kampus,Medium,Medium,Medium
+Minimarket,Retail,5000000,15000000,High,Low,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,7000000,10000000,High,High,Perumahan,Low,Low,Medium
+Cafe Kekinian,Minuman,2000000,7000000,Low,Low,Perkotaan,High,High,High
+Warung Sembako,Retail,2000000,7000000,Low,High,Kampus,Low,Low,Medium
+Les Privat,Jasa,2000000,5000000,High,Low,Kampus,Medium,High,Medium
+Cuci Motor,Jasa,2000000,5000000,High,Medium,Perumahan,Medium,Low,Medium
+Toko ATK,Retail,3000000,13000000,Medium,High,Kampus,Low,Low,Medium
+Cuci Motor,Jasa,2000000,12000000,Low,High,Perumahan,Medium,Low,Medium
+Kedai Kopi,Minuman,2000000,12000000,High,Low,Kampus,High,High,High
+Cafe Kekinian,Minuman,3000000,8000000,Medium,Medium,Kampus,High,High,High
+Warung Sembako,Retail,5000000,10000000,Medium,Low,Perumahan,Low,Low,Medium
+Laundry Kiloan,Jasa,3000000,13000000,Low,Low,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,12000000,Medium,Medium,Perumahan,High,High,High
+Percetakan Digital,Jasa,5000000,8000000,Medium,Medium,Kampus,High,Medium,High
+Les Privat,Jasa,2000000,5000000,Low,High,Kampus,Medium,High,Medium
+Minimarket,Retail,2000000,5000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,5000000,10000000,High,Low,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,5000000,8000000,Low,Medium,Kampus,Medium,High,Medium
+Percetakan Digital,Jasa,3000000,6000000,Medium,Low,Perumahan,High,Medium,High
+Barbershop,Jasa,2000000,5000000,Low,Low,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,5000000,15000000,High,High,Perumahan,High,High,High
+Minimarket,Retail,5000000,8000000,Low,Low,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,3000000,6000000,Medium,Low,Perumahan,Medium,Low,Medium
+Cuci Motor,Jasa,2000000,5000000,High,Medium,Perkotaan,Medium,Low,Medium
+Kedai Kopi,Minuman,7000000,10000000,Medium,High,Kampus,High,High,High
+Cafe Kekinian,Minuman,5000000,8000000,Low,Medium,Kampus,High,High,High
+Cuci Motor,Jasa,3000000,6000000,High,High,Perkotaan,Medium,Low,Medium
+Laundry Kiloan,Jasa,5000000,10000000,Medium,High,Kampus,Medium,Medium,Medium
+Toko ATK,Retail,2000000,7000000,Medium,Low,Kampus,Low,Low,Medium
+Laundry Kiloan,Jasa,3000000,13000000,High,Low,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,7000000,17000000,Medium,Medium,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,5000000,10000000,Medium,Low,Perumahan,High,Medium,High
+Warung Sembako,Retail,3000000,6000000,Medium,Low,Kampus,Low,Low,Medium
+Percetakan Digital,Jasa,5000000,15000000,Low,Low,Perumahan,High,Medium,High
+Laundry Kiloan,Jasa,3000000,8000000,High,High,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,7000000,12000000,Low,Low,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,5000000,15000000,High,Medium,Perkotaan,Medium,Medium,Medium
+Toko ATK,Retail,5000000,15000000,High,Low,Perkotaan,Low,Low,Medium
+Laundry Kiloan,Jasa,7000000,17000000,Medium,Low,Kampus,Medium,Medium,Medium
+Toko ATK,Retail,2000000,5000000,Low,High,Perumahan,Low,Low,Medium
+Toko ATK,Retail,7000000,10000000,Medium,High,Perumahan,Low,Low,Medium
+Cafe Kekinian,Minuman,5000000,15000000,Low,Medium,Perumahan,High,High,High
+Toko ATK,Retail,3000000,13000000,High,Low,Perumahan,Low,Low,Medium
+Percetakan Digital,Jasa,5000000,8000000,Medium,High,Perkotaan,High,Medium,High
+Kedai Kopi,Minuman,2000000,7000000,Medium,Medium,Perumahan,High,High,High
+Cafe Kekinian,Minuman,7000000,17000000,Medium,High,Kampus,High,High,High
+Cafe Kekinian,Minuman,5000000,8000000,High,High,Perumahan,High,High,High
+Kedai Kopi,Minuman,5000000,15000000,High,Medium,Perumahan,High,High,High
+Cafe Kekinian,Minuman,2000000,12000000,High,Medium,Perkotaan,High,High,High
+Toko ATK,Retail,3000000,13000000,Medium,High,Perumahan,Low,Low,Medium
+Minimarket,Retail,2000000,7000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Barbershop,Jasa,3000000,8000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Barbershop,Jasa,5000000,10000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,2000000,7000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Toko ATK,Retail,2000000,7000000,Medium,High,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,7000000,12000000,Medium,Medium,Perkotaan,High,High,High
+Kedai Kopi,Minuman,2000000,7000000,High,High,Perkotaan,High,High,High
+Laundry Kiloan,Jasa,3000000,8000000,Low,Low,Kampus,Medium,Medium,Medium
+Toko ATK,Retail,5000000,10000000,Low,Low,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,7000000,10000000,High,Low,Perkotaan,High,High,High
+Barbershop,Jasa,5000000,15000000,High,Medium,Perkotaan,Medium,Medium,Medium
+Toko ATK,Retail,7000000,17000000,Low,High,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,2000000,5000000,Medium,Low,Perumahan,High,High,High
+Kedai Kopi,Minuman,5000000,15000000,Medium,Medium,Perumahan,High,High,High
+Barbershop,Jasa,2000000,7000000,High,High,Kampus,Medium,Medium,Medium
+Cafe Kekinian,Minuman,2000000,7000000,Low,Medium,Perumahan,High,High,High
+Les Privat,Jasa,7000000,10000000,Low,Low,Perumahan,Medium,High,Medium
+Cafe Kekinian,Minuman,5000000,8000000,Medium,Low,Kampus,High,High,High
+Kedai Kopi,Minuman,7000000,12000000,High,Medium,Perumahan,High,High,High
+Percetakan Digital,Jasa,7000000,10000000,Medium,Medium,Kampus,High,Medium,High
+Cafe Kekinian,Minuman,7000000,10000000,Medium,Medium,Kampus,High,High,High
+Les Privat,Jasa,3000000,8000000,High,Low,Perumahan,Medium,High,Medium
+Barbershop,Jasa,2000000,12000000,Medium,High,Kampus,Medium,Medium,Medium
+Minimarket,Retail,3000000,13000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Kedai Kopi,Minuman,7000000,17000000,Low,Medium,Kampus,High,High,High
+Barbershop,Jasa,7000000,17000000,Low,High,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,3000000,6000000,Medium,Low,Perumahan,High,Medium,High
+Laundry Kiloan,Jasa,3000000,6000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,3000000,13000000,Low,High,Kampus,High,High,High
+Warung Sembako,Retail,2000000,5000000,Medium,High,Kampus,Low,Low,Medium
+Percetakan Digital,Jasa,5000000,10000000,High,Medium,Perumahan,High,Medium,High
+Minimarket,Retail,7000000,10000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,2000000,5000000,High,Low,Kampus,Medium,Medium,Medium
+Percetakan Digital,Jasa,5000000,10000000,Medium,Medium,Perkotaan,High,Medium,High
+Cuci Motor,Jasa,7000000,10000000,Low,Medium,Kampus,Medium,Low,Medium
+Cafe Kekinian,Minuman,7000000,10000000,Medium,Medium,Perkotaan,High,High,High
+Laundry Kiloan,Jasa,2000000,12000000,Medium,Medium,Kampus,Medium,Medium,Medium
+Toko ATK,Retail,5000000,10000000,Medium,Medium,Kampus,Low,Low,Medium
+Barbershop,Jasa,3000000,6000000,Medium,High,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,5000000,15000000,Medium,High,Perkotaan,Low,Low,Medium
+Barbershop,Jasa,3000000,8000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Cuci Motor,Jasa,5000000,8000000,High,Low,Perumahan,Medium,Low,Medium
+Les Privat,Jasa,7000000,10000000,High,High,Perumahan,Medium,High,Medium
+Cafe Kekinian,Minuman,3000000,6000000,Low,Low,Perumahan,High,High,High
+Cuci Motor,Jasa,2000000,7000000,High,Low,Kampus,Medium,Low,Medium
+Warung Sembako,Retail,7000000,17000000,Medium,High,Perumahan,Low,Low,Medium
+Toko ATK,Retail,3000000,8000000,Medium,High,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,7000000,17000000,High,Medium,Kampus,High,High,High
+Cafe Kekinian,Minuman,5000000,15000000,High,Low,Kampus,High,High,High
+Toko ATK,Retail,7000000,10000000,Low,High,Perumahan,Low,Low,Medium
+Laundry Kiloan,Jasa,3000000,13000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Kedai Kopi,Minuman,2000000,12000000,Low,Medium,Perumahan,High,High,High
+Cafe Kekinian,Minuman,2000000,5000000,Medium,High,Kampus,High,High,High
+Les Privat,Jasa,7000000,12000000,Medium,Medium,Kampus,Medium,High,Medium
+Laundry Kiloan,Jasa,7000000,12000000,High,High,Perkotaan,Medium,Medium,Medium
+Kedai Kopi,Minuman,2000000,5000000,High,High,Kampus,High,High,High
+Percetakan Digital,Jasa,5000000,10000000,High,Low,Kampus,High,Medium,High
+Barbershop,Jasa,5000000,10000000,High,Medium,Kampus,Medium,Medium,Medium
+Les Privat,Jasa,5000000,8000000,Low,High,Perumahan,Medium,High,Medium
+Toko ATK,Retail,7000000,17000000,Medium,High,Perumahan,Low,Low,Medium
+Toko ATK,Retail,7000000,12000000,Medium,Medium,Kampus,Low,Low,Medium
+Kedai Kopi,Minuman,2000000,12000000,High,High,Perumahan,High,High,High
+Warung Sembako,Retail,3000000,13000000,High,High,Kampus,Low,Low,Medium
+Warung Sembako,Retail,5000000,8000000,High,High,Perumahan,Low,Low,Medium
+Les Privat,Jasa,2000000,7000000,Low,High,Kampus,Medium,High,Medium
+Percetakan Digital,Jasa,3000000,13000000,Medium,High,Perumahan,High,Medium,High
+Laundry Kiloan,Jasa,5000000,8000000,High,Medium,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,5000000,10000000,High,Medium,Kampus,Low,Low,Medium
+Barbershop,Jasa,7000000,10000000,High,High,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,2000000,7000000,Low,High,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,5000000,10000000,Low,Low,Perumahan,High,High,High
+Laundry Kiloan,Jasa,5000000,10000000,High,Medium,Perumahan,Medium,Medium,Medium
+Warung Sembako,Retail,3000000,6000000,Medium,Medium,Perkotaan,Low,Low,Medium
+Cafe Kekinian,Minuman,5000000,15000000,Low,Low,Kampus,High,High,High
+Les Privat,Jasa,3000000,6000000,High,Low,Kampus,Medium,High,Medium
+Barbershop,Jasa,3000000,13000000,Medium,High,Kampus,Medium,Medium,Medium
+Kedai Kopi,Minuman,7000000,12000000,Medium,Low,Perumahan,High,High,High
+Percetakan Digital,Jasa,3000000,13000000,Medium,Low,Kampus,High,Medium,High
+Percetakan Digital,Jasa,3000000,6000000,High,Low,Perkotaan,High,Medium,High
+Laundry Kiloan,Jasa,3000000,13000000,Medium,Medium,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,7000000,17000000,High,Medium,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,2000000,7000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,5000000,10000000,High,Low,Kampus,High,Medium,High
+Cuci Motor,Jasa,5000000,8000000,Low,Medium,Perumahan,Medium,Low,Medium
+Laundry Kiloan,Jasa,3000000,13000000,Low,Low,Perkotaan,Medium,Medium,Medium
+Toko ATK,Retail,3000000,6000000,Medium,High,Perkotaan,Low,Low,Medium
+Toko ATK,Retail,7000000,17000000,Medium,High,Perkotaan,Low,Low,Medium
+Toko ATK,Retail,2000000,12000000,Low,High,Perumahan,Low,Low,Medium
+Toko ATK,Retail,2000000,7000000,Medium,Medium,Perumahan,Low,Low,Medium
+Percetakan Digital,Jasa,5000000,10000000,High,Low,Perumahan,High,Medium,High
+Toko ATK,Retail,5000000,10000000,High,Low,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,5000000,15000000,High,High,Perumahan,High,Medium,High
+Kedai Kopi,Minuman,2000000,12000000,High,High,Perumahan,High,High,High
+Les Privat,Jasa,2000000,5000000,Medium,Low,Perkotaan,Medium,High,Medium
+Laundry Kiloan,Jasa,5000000,15000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Kedai Kopi,Minuman,5000000,8000000,Low,High,Kampus,High,High,High
+Laundry Kiloan,Jasa,7000000,12000000,Low,Low,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,2000000,12000000,High,Medium,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,2000000,12000000,High,Low,Kampus,Medium,Medium,Medium
+Laundry Kiloan,Jasa,7000000,12000000,Medium,Medium,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,3000000,6000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Warung Sembako,Retail,7000000,17000000,Low,Low,Perumahan,Low,Low,Medium
+Toko ATK,Retail,3000000,13000000,High,Low,Kampus,Low,Low,Medium
+Warung Sembako,Retail,7000000,17000000,Medium,High,Perumahan,Low,Low,Medium
+Warung Sembako,Retail,5000000,8000000,Low,Medium,Kampus,Low,Low,Medium
+Cuci Motor,Jasa,5000000,10000000,High,Medium,Kampus,Medium,Low,Medium
+Cafe Kekinian,Minuman,2000000,5000000,High,High,Perumahan,High,High,High
+Cafe Kekinian,Minuman,2000000,7000000,High,Medium,Perkotaan,High,High,High
+Cuci Motor,Jasa,3000000,13000000,Medium,Medium,Perkotaan,Medium,Low,Medium
+Toko ATK,Retail,3000000,8000000,Medium,Low,Kampus,Low,Low,Medium
+Cuci Motor,Jasa,2000000,5000000,Medium,High,Kampus,Medium,Low,Medium
+Toko ATK,Retail,3000000,13000000,Medium,High,Perkotaan,Low,Low,Medium
+Minimarket,Retail,2000000,7000000,High,High,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,5000000,15000000,High,High,Kampus,Medium,Low,Medium
+Cafe Kekinian,Minuman,2000000,5000000,High,Low,Perkotaan,High,High,High
+Cuci Motor,Jasa,7000000,10000000,Low,Medium,Kampus,Medium,Low,Medium
+Laundry Kiloan,Jasa,5000000,10000000,Low,High,Perumahan,Medium,Medium,Medium
+Percetakan Digital,Jasa,7000000,12000000,Low,Low,Kampus,High,Medium,High
+Cuci Motor,Jasa,7000000,10000000,Medium,Medium,Kampus,Medium,Low,Medium
+Barbershop,Jasa,7000000,17000000,High,Low,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,7000000,10000000,High,High,Perumahan,High,High,High
+Barbershop,Jasa,5000000,15000000,High,Low,Perkotaan,Medium,Medium,Medium
+Cuci Motor,Jasa,5000000,10000000,Low,Low,Kampus,Medium,Low,Medium
+Warung Sembako,Retail,7000000,17000000,High,Medium,Perkotaan,Low,Low,Medium
+Cuci Motor,Jasa,2000000,5000000,High,Low,Perumahan,Medium,Low,Medium
+Warung Sembako,Retail,5000000,15000000,Medium,High,Perkotaan,Low,Low,Medium
+Warung Sembako,Retail,2000000,5000000,Low,Medium,Perumahan,Low,Low,Medium
+Kedai Kopi,Minuman,2000000,7000000,High,Low,Perumahan,High,High,High
+Barbershop,Jasa,7000000,10000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Warung Sembako,Retail,2000000,7000000,Low,High,Perkotaan,Low,Low,Medium
+Minimarket,Retail,2000000,7000000,Medium,High,Perkotaan,Medium,Medium,Medium
+Percetakan Digital,Jasa,3000000,8000000,Low,High,Perkotaan,High,Medium,High
+Toko ATK,Retail,7000000,17000000,Medium,High,Perumahan,Low,Low,Medium
+Minimarket,Retail,3000000,13000000,Low,Low,Kampus,Medium,Medium,Medium
+Minimarket,Retail,5000000,15000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,5000000,10000000,Medium,Medium,Kampus,Medium,Medium,Medium
+Cafe Kekinian,Minuman,3000000,8000000,High,High,Perkotaan,High,High,High
+Percetakan Digital,Jasa,5000000,15000000,High,Medium,Perkotaan,High,Medium,High
+Percetakan Digital,Jasa,3000000,6000000,Low,High,Perkotaan,High,Medium,High
+Les Privat,Jasa,5000000,15000000,Low,High,Perkotaan,Medium,High,Medium
+Cafe Kekinian,Minuman,5000000,15000000,Low,Medium,Perkotaan,High,High,High
+Cuci Motor,Jasa,7000000,17000000,High,High,Kampus,Medium,Low,Medium
+Kedai Kopi,Minuman,2000000,12000000,Low,Low,Kampus,High,High,High
+Cafe Kekinian,Minuman,2000000,12000000,Low,Low,Kampus,High,High,High
+Cafe Kekinian,Minuman,5000000,15000000,Medium,Low,Perumahan,High,High,High
+Les Privat,Jasa,3000000,13000000,Low,Medium,Kampus,Medium,High,Medium
+Barbershop,Jasa,3000000,13000000,High,High,Kampus,Medium,Medium,Medium
+Laundry Kiloan,Jasa,5000000,15000000,High,Low,Kampus,Medium,Medium,Medium
+Kedai Kopi,Minuman,7000000,17000000,Medium,High,Perumahan,High,High,High
+Toko ATK,Retail,5000000,8000000,High,Medium,Perumahan,Low,Low,Medium
+Warung Sembako,Retail,3000000,13000000,Low,Medium,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,2000000,5000000,Low,High,Perkotaan,High,High,High
+Barbershop,Jasa,7000000,10000000,Medium,Medium,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,3000000,6000000,High,Medium,Perumahan,Medium,High,Medium
+Warung Sembako,Retail,7000000,17000000,Low,Low,Perumahan,Low,Low,Medium
+Warung Sembako,Retail,2000000,12000000,High,High,Kampus,Low,Low,Medium
+Cuci Motor,Jasa,5000000,8000000,High,Medium,Perkotaan,Medium,Low,Medium
+Laundry Kiloan,Jasa,3000000,13000000,Low,High,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,7000000,10000000,Medium,Low,Perumahan,High,High,High
+Warung Sembako,Retail,5000000,10000000,Medium,Low,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,7000000,17000000,High,Low,Perumahan,High,Medium,High
+Warung Sembako,Retail,7000000,10000000,High,High,Perkotaan,Low,Low,Medium
+Laundry Kiloan,Jasa,2000000,12000000,Medium,Medium,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,5000000,15000000,High,Medium,Perumahan,High,High,High
+Percetakan Digital,Jasa,5000000,15000000,High,Medium,Kampus,High,Medium,High
+Toko ATK,Retail,5000000,15000000,Low,Medium,Perkotaan,Low,Low,Medium
+Barbershop,Jasa,2000000,5000000,High,High,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,3000000,13000000,High,Low,Perkotaan,Medium,Medium,Medium
+Kedai Kopi,Minuman,2000000,5000000,High,High,Perkotaan,High,High,High
+Kedai Kopi,Minuman,2000000,12000000,High,Low,Perumahan,High,High,High
+Cuci Motor,Jasa,5000000,8000000,Low,Low,Perumahan,Medium,Low,Medium
+Cafe Kekinian,Minuman,5000000,15000000,Low,High,Perumahan,High,High,High
+Les Privat,Jasa,7000000,12000000,Medium,High,Kampus,Medium,High,Medium
+Kedai Kopi,Minuman,5000000,8000000,Medium,High,Perumahan,High,High,High
+Percetakan Digital,Jasa,2000000,12000000,High,High,Perumahan,High,Medium,High
+Minimarket,Retail,2000000,12000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Barbershop,Jasa,5000000,15000000,Medium,High,Perumahan,Medium,Medium,Medium
+Les Privat,Jasa,7000000,12000000,Medium,High,Perumahan,Medium,High,Medium
+Cuci Motor,Jasa,3000000,13000000,Low,Low,Perkotaan,Medium,Low,Medium
+Kedai Kopi,Minuman,5000000,15000000,Low,Medium,Perkotaan,High,High,High
+Warung Sembako,Retail,2000000,12000000,High,Low,Perumahan,Low,Low,Medium
+Toko ATK,Retail,2000000,12000000,High,Medium,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,2000000,7000000,Low,High,Perkotaan,High,Medium,High
+Warung Sembako,Retail,3000000,8000000,High,High,Perumahan,Low,Low,Medium
+Cafe Kekinian,Minuman,3000000,6000000,High,Medium,Perumahan,High,High,High
+Barbershop,Jasa,3000000,13000000,High,Low,Perkotaan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,7000000,High,Low,Kampus,Medium,Low,Medium
+Barbershop,Jasa,3000000,13000000,High,Medium,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,3000000,13000000,High,Low,Perumahan,Low,Low,Medium
+Les Privat,Jasa,2000000,5000000,Medium,Medium,Kampus,Medium,High,Medium
+Warung Sembako,Retail,5000000,15000000,High,Low,Perkotaan,Low,Low,Medium
+Minimarket,Retail,5000000,10000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Warung Sembako,Retail,3000000,6000000,High,High,Perkotaan,Low,Low,Medium
+Kedai Kopi,Minuman,5000000,10000000,Low,High,Perkotaan,High,High,High
+Warung Sembako,Retail,7000000,12000000,Medium,Medium,Kampus,Low,Low,Medium
+Cuci Motor,Jasa,2000000,5000000,High,High,Perumahan,Medium,Low,Medium
+Les Privat,Jasa,3000000,13000000,Low,Medium,Perkotaan,Medium,High,Medium
+Barbershop,Jasa,2000000,5000000,High,High,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,7000000,17000000,Low,Low,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,7000000,17000000,Low,Medium,Kampus,Medium,High,Medium
+Laundry Kiloan,Jasa,5000000,8000000,Medium,High,Perkotaan,Medium,Medium,Medium
+Barbershop,Jasa,7000000,12000000,High,Low,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,3000000,13000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,3000000,13000000,High,Medium,Kampus,High,High,High
+Toko ATK,Retail,3000000,8000000,Low,Low,Kampus,Low,Low,Medium
+Warung Sembako,Retail,3000000,6000000,High,Low,Perkotaan,Low,Low,Medium
+Warung Sembako,Retail,7000000,12000000,Medium,Low,Perumahan,Low,Low,Medium
+Warung Sembako,Retail,2000000,12000000,High,High,Kampus,Low,Low,Medium
+Les Privat,Jasa,3000000,8000000,High,Medium,Kampus,Medium,High,Medium
+Minimarket,Retail,2000000,12000000,Medium,Medium,Perumahan,Medium,Medium,Medium
+Percetakan Digital,Jasa,7000000,12000000,Medium,Medium,Kampus,High,Medium,High
+Minimarket,Retail,2000000,12000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,2000000,12000000,High,Medium,Perumahan,Medium,Medium,Medium
+Cafe Kekinian,Minuman,3000000,6000000,Medium,High,Perkotaan,High,High,High
+Barbershop,Jasa,3000000,8000000,Medium,High,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,7000000,12000000,Low,High,Perumahan,Medium,Low,Medium
+Kedai Kopi,Minuman,2000000,5000000,Low,Low,Perkotaan,High,High,High
+Minimarket,Retail,3000000,6000000,High,High,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,3000000,6000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Percetakan Digital,Jasa,7000000,17000000,High,High,Perumahan,High,Medium,High
+Les Privat,Jasa,2000000,5000000,Medium,High,Kampus,Medium,High,Medium
+Cuci Motor,Jasa,3000000,6000000,Medium,High,Perumahan,Medium,Low,Medium
+Minimarket,Retail,3000000,13000000,High,High,Kampus,Medium,Medium,Medium
+Cafe Kekinian,Minuman,5000000,10000000,High,High,Perumahan,High,High,High
+Laundry Kiloan,Jasa,7000000,12000000,Low,Low,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,7000000,10000000,High,Low,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,12000000,High,Low,Perumahan,Medium,Low,Medium
+Cuci Motor,Jasa,3000000,13000000,High,Low,Perkotaan,Medium,Low,Medium
+Kedai Kopi,Minuman,7000000,12000000,Low,High,Perkotaan,High,High,High
+Kedai Kopi,Minuman,3000000,8000000,Medium,Medium,Perkotaan,High,High,High
+Minimarket,Retail,2000000,7000000,Low,Medium,Kampus,Medium,Medium,Medium
+Laundry Kiloan,Jasa,2000000,7000000,High,High,Kampus,Medium,Medium,Medium
+Les Privat,Jasa,3000000,6000000,High,High,Perumahan,Medium,High,Medium
+Minimarket,Retail,2000000,12000000,Low,Medium,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,5000000,10000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,5000000,10000000,High,Medium,Perkotaan,High,High,High
+Warung Sembako,Retail,5000000,15000000,Medium,Low,Kampus,Low,Low,Medium
+Percetakan Digital,Jasa,7000000,10000000,Medium,High,Perkotaan,High,Medium,High
+Cuci Motor,Jasa,5000000,10000000,High,Medium,Perkotaan,Medium,Low,Medium
+Kedai Kopi,Minuman,3000000,13000000,Low,High,Perumahan,High,High,High
+Cuci Motor,Jasa,3000000,6000000,Low,High,Kampus,Medium,Low,Medium
+Warung Sembako,Retail,2000000,5000000,Medium,High,Perumahan,Low,Low,Medium
+Barbershop,Jasa,3000000,8000000,High,Medium,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,5000000,8000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Toko ATK,Retail,7000000,12000000,High,High,Perkotaan,Low,Low,Medium
+Les Privat,Jasa,2000000,5000000,High,Medium,Kampus,Medium,High,Medium
+Toko ATK,Retail,3000000,13000000,High,Medium,Perumahan,Low,Low,Medium
+Toko ATK,Retail,3000000,13000000,Low,High,Perumahan,Low,Low,Medium
+Warung Sembako,Retail,3000000,13000000,Low,Low,Perumahan,Low,Low,Medium
+Les Privat,Jasa,7000000,12000000,High,Medium,Kampus,Medium,High,Medium
+Minimarket,Retail,3000000,13000000,Low,High,Perkotaan,Medium,Medium,Medium
+Barbershop,Jasa,2000000,12000000,Medium,High,Perkotaan,Medium,Medium,Medium
+Minimarket,Retail,5000000,10000000,Medium,Low,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,7000000,12000000,High,Low,Kampus,Medium,Medium,Medium
+Cafe Kekinian,Minuman,7000000,17000000,Low,High,Perumahan,High,High,High
+Percetakan Digital,Jasa,5000000,10000000,Low,High,Kampus,High,Medium,High
+Percetakan Digital,Jasa,5000000,15000000,Medium,Medium,Perkotaan,High,Medium,High
+Cuci Motor,Jasa,3000000,8000000,Medium,High,Kampus,Medium,Low,Medium
+Minimarket,Retail,2000000,7000000,Low,Medium,Perumahan,Medium,Medium,Medium
+Kedai Kopi,Minuman,3000000,13000000,High,Low,Kampus,High,High,High
+Kedai Kopi,Minuman,5000000,15000000,High,Low,Perkotaan,High,High,High
+Les Privat,Jasa,3000000,8000000,Low,Medium,Perkotaan,Medium,High,Medium
+Warung Sembako,Retail,2000000,12000000,Low,Medium,Kampus,Low,Low,Medium
+Warung Sembako,Retail,3000000,13000000,Medium,Low,Perkotaan,Low,Low,Medium
+Laundry Kiloan,Jasa,7000000,17000000,Low,Low,Perkotaan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,5000000,8000000,Low,Low,Perumahan,Medium,Medium,Medium
+Minimarket,Retail,5000000,8000000,Low,Low,Perumahan,Medium,Medium,Medium
+Cuci Motor,Jasa,2000000,12000000,Low,Medium,Kampus,Medium,Low,Medium
+Minimarket,Retail,5000000,10000000,High,Medium,Kampus,Medium,Medium,Medium
+Cafe Kekinian,Minuman,5000000,10000000,Low,High,Perumahan,High,High,High
+Toko ATK,Retail,7000000,12000000,High,Low,Perkotaan,Low,Low,Medium
+Warung Sembako,Retail,7000000,17000000,Low,Medium,Perumahan,Low,Low,Medium
+Percetakan Digital,Jasa,7000000,12000000,High,Low,Perumahan,High,Medium,High
+Laundry Kiloan,Jasa,7000000,17000000,Low,Medium,Kampus,Medium,Medium,Medium
+Minimarket,Retail,5000000,8000000,High,Medium,Perumahan,Medium,Medium,Medium
+Les Privat,Jasa,7000000,17000000,Medium,Medium,Perumahan,Medium,High,Medium
+Cuci Motor,Jasa,7000000,10000000,Medium,High,Kampus,Medium,Low,Medium
+Warung Sembako,Retail,7000000,12000000,Medium,Low,Perkotaan,Low,Low,Medium
+Cafe Kekinian,Minuman,3000000,6000000,High,Medium,Perumahan,High,High,High
+Percetakan Digital,Jasa,7000000,12000000,Low,Low,Perkotaan,High,Medium,High
+Cafe Kekinian,Minuman,7000000,10000000,Low,Medium,Kampus,High,High,High
+Cafe Kekinian,Minuman,5000000,10000000,Medium,Medium,Perkotaan,High,High,High
+Minimarket,Retail,2000000,7000000,Low,High,Perumahan,Medium,Medium,Medium
+Toko ATK,Retail,3000000,8000000,Medium,High,Perumahan,Low,Low,Medium
+Cuci Motor,Jasa,5000000,10000000,Medium,Medium,Perkotaan,Medium,Low,Medium
+Percetakan Digital,Jasa,5000000,10000000,Low,Medium,Perumahan,High,Medium,High
+Warung Sembako,Retail,3000000,13000000,High,High,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,3000000,8000000,Medium,Medium,Perkotaan,High,Medium,High
+Percetakan Digital,Jasa,7000000,17000000,Medium,Low,Kampus,High,Medium,High
+Minimarket,Retail,5000000,10000000,High,Low,Perumahan,Medium,Medium,Medium
+Warung Sembako,Retail,7000000,17000000,High,High,Kampus,Low,Low,Medium
+Barbershop,Jasa,2000000,5000000,Medium,Low,Kampus,Medium,Medium,Medium
+Warung Sembako,Retail,5000000,15000000,Medium,High,Perkotaan,Low,Low,Medium
+Kedai Kopi,Minuman,5000000,10000000,Medium,High,Perkotaan,High,High,High
+Percetakan Digital,Jasa,7000000,12000000,Low,Low,Perumahan,High,Medium,High
+Cafe Kekinian,Minuman,3000000,13000000,Medium,High,Perkotaan,High,High,High
+Barbershop,Jasa,3000000,6000000,Medium,Low,Perumahan,Medium,Medium,Medium
+Barbershop,Jasa,7000000,17000000,Low,Low,Kampus,Medium,Medium,Medium
+Percetakan Digital,Jasa,2000000,5000000,Medium,High,Perumahan,High,Medium,High
+Barbershop,Jasa,7000000,12000000,Low,Low,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,7000000,17000000,Low,Low,Perkotaan,Medium,High,Medium
+Cafe Kekinian,Minuman,2000000,5000000,High,Medium,Kampus,High,High,High
+Cuci Motor,Jasa,7000000,17000000,Medium,High,Kampus,Medium,Low,Medium
+Cafe Kekinian,Minuman,3000000,13000000,High,Medium,Perkotaan,High,High,High
+Minimarket,Retail,7000000,17000000,High,High,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,5000000,10000000,High,Low,Perumahan,Medium,High,Medium
+Cuci Motor,Jasa,5000000,10000000,Medium,Medium,Perumahan,Medium,Low,Medium
+Les Privat,Jasa,2000000,5000000,High,Low,Kampus,Medium,High,Medium
+Les Privat,Jasa,7000000,17000000,Low,High,Kampus,Medium,High,Medium
+Cuci Motor,Jasa,5000000,8000000,Medium,Medium,Perkotaan,Medium,Low,Medium
+Laundry Kiloan,Jasa,2000000,12000000,Medium,Low,Kampus,Medium,Medium,Medium
+Percetakan Digital,Jasa,7000000,12000000,Low,Low,Perkotaan,High,Medium,High
+Kedai Kopi,Minuman,7000000,10000000,Medium,Low,Kampus,High,High,High
+Laundry Kiloan,Jasa,5000000,10000000,High,High,Perkotaan,Medium,Medium,Medium
+Les Privat,Jasa,7000000,10000000,Low,Low,Perumahan,Medium,High,Medium
+Les Privat,Jasa,2000000,12000000,Medium,High,Kampus,Medium,High,Medium
+Les Privat,Jasa,7000000,10000000,Medium,Low,Perumahan,Medium,High,Medium
+Toko ATK,Retail,2000000,5000000,Low,Medium,Kampus,Low,Low,Medium
+Cafe Kekinian,Minuman,7000000,17000000,Low,Low,Perumahan,High,High,High
+Cafe Kekinian,Minuman,2000000,7000000,Low,Medium,Kampus,High,High,High
+Les Privat,Jasa,7000000,12000000,Medium,High,Perumahan,Medium,High,Medium
+Warung Sembako,Retail,2000000,5000000,Low,Medium,Kampus,Low,Low,Medium
+Barbershop,Jasa,7000000,10000000,Low,Medium,Kampus,Medium,Medium,Medium
+Toko ATK,Retail,2000000,12000000,Low,Medium,Kampus,Low,Low,Medium
+Laundry Kiloan,Jasa,2000000,5000000,Medium,High,Perumahan,Medium,Medium,Medium
+Percetakan Digital,Jasa,3000000,8000000,Medium,High,Kampus,High,Medium,High
+Warung Sembako,Retail,3000000,13000000,High,Low,Perkotaan,Low,Low,Medium
+Percetakan Digital,Jasa,2000000,7000000,Medium,High,Kampus,High,Medium,High
+Laundry Kiloan,Jasa,5000000,8000000,High,Low,Perumahan,Medium,Medium,Medium
+Laundry Kiloan,Jasa,7000000,12000000,Low,Low,Kampus,Medium,Medium,Medium
+Minimarket,Retail,2000000,7000000,Low,Low,Perumahan,Medium,Medium,Medium

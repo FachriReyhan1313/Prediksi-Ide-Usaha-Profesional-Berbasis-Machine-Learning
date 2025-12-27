@@ -1,0 +1,65 @@
+/* ================== GLOBAL ================== */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    /* soft warm gradient (tidak polos) */
+    background:
+        radial-gradient(circle at top left, #f3d9b1 0%, transparent 40%),
+        radial-gradient(circle at bottom right, #e8c7a1 0%, transparent 45%),
+        linear-gradient(135deg, #f5e0c3, #f9efe1);
+
+    min-height: 100vh;
+}
+
+/* ================== CONTAINER ================== */
+.container {
+    max-width: 650px;
+    margin: 50px auto;
+    padding: 30px 40px;
+
+    background-color: #ffffff;
+    border-radius: 20px;
+
+    /* shadow lebih halus & modern */
+    box-shadow:
+        0 10px 25px rgba(0, 0, 0, 0.08),
+        0 4px 10px rgba(0, 0, 0, 0.04);
+}
+
+/* ================== TITLE ================== */
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 600;
+    color: #5a3e2b;
+}
+
+/* ================== FORM ================== */
+.form-label {
+    font-weight: 500;
+    color: #4b3621;
+}
+
+/* ================== BUTTON ================== */
+.btn-primary {
+    background-color: #a9746e;
+    border-color: #a9746e;
+    font-weight: 500;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+    background-color: #8c5d53;
+    border-color: #8c5d53;
+    transform: translateY(-1px);
+}
+
+/* ================== RESULT / ALERT ================== */
+.alert-success {
+    background-color: #eef6ee;
+    color: #2e662e;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}

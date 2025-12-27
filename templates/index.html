@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediksi Ide Usaha Profesional</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        /* ================== GLOBAL ================== */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background:
+                radial-gradient(circle at 15% 20%, rgba(59,130,246,0.18), transparent 45%),
+                radial-gradient(circle at 85% 30%, rgba(56,189,248,0.18), transparent 45%),
+                linear-gradient(135deg, #eef5ff, #f9fbff);
+            min-height: 100vh;
+        }
+
+        .required::after { content: " *"; color: #ef4444; }
+
+        .card-form, .card-result {
+            background: #ffffff;
+            border-radius: 14px;
+            box-shadow: 0 18px 40px rgba(30,64,175,0.15),
+                        0 6px 14px rgba(30,64,175,0.08);
+        }
+
+        .placeholder-box {
+            background: rgba(248,250,252,0.95);
+            border: 1px dashed #cbd5e1;
+            color: #64748b;
+            border-radius: 14px;
+            padding: 24px;
+            text-align: center;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #3b82f6, #6366f1);
+            border: none;
+            font-weight: 600;
+            border-radius: 10px;
+        }
+
+        .form-select { border-radius: 10px; }
+
+        /* ================== STATUS DOT (NEW) ================== */
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 6px;
+        }
+
+        .dot-success { background-color: #22c55e; } /* hijau */
+        .dot-warning { background-color: #facc15; } /* kuning */
+    </style>
+</head>
+
+<body>
+<div class="container mt-5 mb-5">
+
+<div class="row g-4 align-items-start">
+
+<!-- ================= FORM ================= -->
+<div class="col-md-6">
+<div class="card card-form p-4">
+
+<h4 class="fw-bold mb-4">Prediksi Ide Usaha Profesional</h4>
+
+<form method="POST" id="predictionForm">
+
+<h6 class="fw-semibold mb-3">Informasi Lokasi</h6>
+<div class="row">
+    <div class="col-6 mb-3">
+        <label class="form-label required">Dekat Sekolah / Kampus</label>
+        <select class="form-select required-input" name="dekat_sekolah" required>
+            <option value="" disabled selected>Pilih</option>
+            <option value="Ya">Ya</option>
+            <option value="Tidak">Tidak</option>
+        </select>
+    </div>
+    <div class="col-6 mb-3">
+        <label class="form-label required">Dekat Perumahan</label>
+        <select class="form-select required-input" name="dekat_perumahan" required>
+            <option value="" disabled selected>Pilih</option>
+            <option value="Ya">Ya</option>
+            <option value="Tidak">Tidak</option>
+        </select>
+    </div>
+</div>
+
+<h6 class="fw-semibold mt-3 mb-3">Modal & Operasional</h6>
+<div class="row">
+    <div class="col-6 mb-3">
+        <label class="form-label required">Estimasi Modal</label>
+        <select class="form-select required-input" name="modal" required>
+            <option value="" disabled selected>Pilih</option>
+            <option value="5_jt">≤ 5 Juta</option>
+            <option value="10_jt">≤ 10 Juta</option>
+            <option value="Lebih">&gt; 10 Juta</option>
+        </select>
+    </div>
+    <div class="col-6 mb-3">
+        <label class="form-label required">Memiliki Tempat Usaha</label>
+        <select class="form-select required-input" name="tempat_usaha" required>
+            <option value="" disabled selected>Pilih</option>
+            <option value="Ya">Ya</option>
+            <option value="Tidak">Tidak</option>
+        </select>
+    </div>
+</div>
+
+<h6 class="fw-semibold mt-3 mb-3">Preferensi Usaha</h6>
+<div class="row">
+    <div class="col-6 mb-3">
+        <label class="form-label required">Bidang Usaha yang Diminati</label>
+        <select class="form-select required-input" name="preferensi_usaha" required>
+            <option value="" disabled selected>Pilih</option>
+            <option value="Bebas">Bebas</option>
+            <option value="Makanan">Makanan</option>
+            <option value="Minuman">Minuman</option>
+            <option value="Jasa">Jasa</option>
+            <option value="Retail">Retail</option>
+        </select>
+    </div>
+    <div class="col-6 mb-3">
+        <label class="form-label required">Mode Rekomendasi</label>
+        <select class="form-select required-input" name="mode_rekomendasi" required>
+            <option value="" disabled selected>Pilih</option>
+            <option value="soft">Sesuai Preferensi</option>
+            <option value="hard">Hanya Bidang Pilihan</option>
+        </select>
+    </div>
+</div>
+
+<button type="submit" id="submitBtn" class="btn btn-primary w-100 mt-3" disabled>
+    Prediksi Ide Usaha
+</button>
+
+</form>
+</div>
+</div>
+
+<!-- ================= HASIL ================= -->
+<div class="col-md-6">
+{% if result %}
+<div class="card card-result p-4">
+<h5 class="fw-bold mb-3">Berdasarkan kondisi Anda, usaha berikut paling potensial:</h5>
+
+{% for r in result %}
+<div class="card mb-3 border-0 bg-light">
+<div class="card-body">
+
+<!-- ===== BADGE + STATUS DOT (UPDATED) ===== -->
+<span class="badge bg-{{ r.label_color }} d-inline-flex align-items-center mb-2">
+    <span class="status-dot {{ 'dot-success' if r.label_color == 'success' else 'dot-warning' }}"></span>
+    {{ r.label }}
+</span>
+
+<h6 class="fw-bold mt-2">{{ r.nama_usaha }}</h6>
+<p><strong>Sektor:</strong> {{ r.sektor }}</p>
+
+<div class="progress mb-2" style="height:10px;">
+    <div class="progress-bar bg-success"
+         style="width: {{ r.probabilitas }}%;">
+    </div>
+</div>
+
+<p><strong>Probabilitas:</strong> {{ "%.2f"|format(r.probabilitas) }}%</p>
+
+<hr>
+<p class="fw-semibold">Alasan:</p>
+<p class="text-muted">{{ r.alasan }}</p>
+
+</div>
+</div>
+{% endfor %}
+
+<!-- ===== COMPARISON (TANPA PROBABILITAS & TANPA BAR) ===== -->
+{% if result|length == 2 %}
+<div class="card border-0 bg-light mt-3">
+    <div class="card-body">
+
+        <h6 class="fw-bold mb-3">Perbandingan Rekomendasi</h6>
+
+        <div class="row g-3">
+            <!-- USAHA 1 -->
+            <div class="col-6">
+                <div class="border rounded p-3 h-100 bg-white">
+                    <span class="badge bg-success mb-2">Direkomendasikan Utama</span>
+                    <h6 class="fw-bold">{{ result[0].nama_usaha }}</h6>
+
+                    <ul class="small text-muted mb-0">
+                        <li>Lebih sesuai dengan kondisi lokasi</li>
+                        <li>Operasional relatif lebih stabil</li>
+                        <li>Cocok untuk dijadikan prioritas awal</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- USAHA 2 -->
+            <div class="col-6">
+                <div class="border rounded p-3 h-100 bg-white">
+                    <span class="badge bg-secondary mb-2">Alternatif Potensial</span>
+                    <h6 class="fw-bold">{{ result[1].nama_usaha }}</h6>
+
+                    <ul class="small text-muted mb-0">
+                        <li>Peluang tetap menjanjikan</li>
+                        <li>Lebih cocok sebagai opsi cadangan</li>
+                        <li>Bisa dikembangkan setelah usaha utama berjalan</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- KESIMPULAN -->
+        <div class="alert alert-info small mt-3 mb-0">
+            Berdasarkan perbandingan, <strong>{{ result[0].nama_usaha }}</strong>
+            lebih direkomendasikan sebagai prioritas utama karena dinilai
+            lebih sesuai dengan kondisi pengguna saat ini.
+        </div>
+
+    </div>
+</div>
+{% endif %}
+
+
+
+</div>
+{% else %}
+<div class="card placeholder-box">
+    Hasil rekomendasi akan muncul setelah prediksi.
+</div>
+{% endif %}
+</div>
+
+</div>
+</div>
+
+<script>
+const inputs = document.querySelectorAll('.required-input');
+const btn = document.getElementById('submitBtn');
+function check(){ btn.disabled = [...inputs].some(i => !i.value); }
+inputs.forEach(i => i.addEventListener('change', check));
+</script>
+
+</body>
+</html>
