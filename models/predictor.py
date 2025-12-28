@@ -27,7 +27,9 @@ FEATURES = [
     "complexity",
     "potensi_margin",
     "kebutuhan_keahlian",
-    "daya_beli_target"
+    "daya_beli_target",
+    "repeat_customer_rate",
+    "tren_pasar"
 ]
 
 
@@ -46,11 +48,6 @@ model = load(MODEL_PATH)
 # Predict probabilitas (1 baris)
 # ==================================================
 def predict_probability(row: dict):
-    """
-    row: satu baris dataset (dict)
-    Dipakai kalau mau predict per-usaha
-    """
-
     data = {
         "modal_min": row["modal_min"],
         "modal_max": row["modal_max"],
@@ -59,9 +56,11 @@ def predict_probability(row: dict):
         "potensi_margin": MAP[row["potensi_margin"]],
         "kebutuhan_keahlian": MAP[row["kebutuhan_keahlian"]],
         "daya_beli_target": MAP[row["daya_beli_target"]],
+        "repeat_customer_rate": MAP[row["repeat_customer_rate"]],
+        "tren_pasar": MAP[row["tren_pasar"]],
     }
 
     X = pd.DataFrame([data], columns=FEATURES)
-
     prob = model.predict_proba(X)[0][1]
+
     return round(prob * 100, 2)

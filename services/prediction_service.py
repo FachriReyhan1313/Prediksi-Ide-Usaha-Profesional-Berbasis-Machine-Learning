@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from config import DATASET_PATH
 from models.predictor import model, FEATURES, MAP
 
@@ -40,12 +41,12 @@ def build_reason(row, form, modal):
 
 
 # ==================================================
-# Main prediction service (FINAL – RANKING FIX)
+# Main prediction service (FINAL – FIX ALL)
 # ==================================================
 def run_prediction(form):
 
     # ==================================================
-    # 1. Modal mapping
+    # 1. Modal mapping (EXISTING)
     # ==================================================
     modal_key = form.get("modal")
 
@@ -57,7 +58,7 @@ def run_prediction(form):
         modal = 15_000_000
 
     # ==================================================
-    # 2. Load & filter dataset (modal)
+    # 2. Load & filter dataset (EXISTING)
     # ==================================================
     df = pd.read_csv(DATASET_PATH)
 
@@ -67,53 +68,70 @@ def run_prediction(form):
     ].copy()
 
     # ==================================================
-    # 3. Preprocessing fitur (WAJIB LENGKAP)
+    # 3. Preprocessing fitur (EXISTING)
     # ==================================================
     for col in [
         "persaingan",
         "complexity",
         "potensi_margin",
         "kebutuhan_keahlian",
-        "daya_beli_target"
+        "daya_beli_target",
+        "repeat_customer_rate",
+        "tren_pasar"
     ]:
         df[col] = df[col].map(MAP)
 
     # ==================================================
-    # 4. Machine Learning Prediction
+    # 3.5 🔥 USER CONTEXT INJECTION (NEW – CORE FIX)
+    # ==================================================
+    dekat_sekolah = form.get("dekat_sekolah")
+    dekat_perumahan = form.get("dekat_perumahan")
+    preferensi = form.get("preferensi_usaha")
+
+    if dekat_sekolah == "Ya":
+        df["tren_pasar"] = df["tren_pasar"] + 0.4
+
+    if dekat_perumahan == "Ya":
+        df["daya_beli_target"] = df["daya_beli_target"] + 0.4
+
+    # Clamp biar tetap valid
+    df["tren_pasar"] = df["tren_pasar"].clip(1, 3)
+    df["daya_beli_target"] = df["daya_beli_target"].clip(1, 3)
+
+    # ==================================================
+    # 3.6 🔥 FILTER BY PREFERENSI USAHA (NEW)
+    # ==================================================
+    if preferensi and preferensi != "Bebas":
+        df = df[df["sektor"].str.lower() == preferensi.lower()]
+
+    # ==================================================
+    # 4. Machine Learning Prediction (EXISTING)
     # ==================================================
     X = df[FEATURES]
     df["probabilitas"] = model.predict_proba(X)[:, 1] * 100
 
     # ==================================================
-    # 5. Business Rules
+    # 4.5 🔥 SOFT VARIATION (ANTI HASIL SAMA)
     # ==================================================
-    segment_pasar = form.get("segment_pasar")
-    tren_bisnis = form.get("tren_bisnis")
-    dekat_perumahan = form.get("dekat_perumahan")
-    dekat_sekolah = form.get("dekat_sekolah")
+    rng = np.random.default_rng(abs(hash(str(form))) % (10**6))
+    df["probabilitas"] += rng.normal(0, 2.5, size=len(df))
 
-    if segment_pasar:
-        df.loc[
-            df["sektor"].str.lower() == segment_pasar.lower(),
-            "probabilitas"
-        ] += 5
-
-    if tren_bisnis:
-        df.loc[
-            df["sektor"].str.lower() == tren_bisnis.lower(),
-            "probabilitas"
-        ] += 3
-
+    # ==================================================
+    # 5. Business Rules (EXISTING)
+    # ==================================================
     if dekat_perumahan == "Ya":
-        df.loc[df["lokasi_cocok"] == "Perumahan", "probabilitas"] += 5
+        df.loc[df["lokasi_cocok"] == "Perumahan", "probabilitas"] += 4
 
     if dekat_sekolah == "Ya":
-        df.loc[df["lokasi_cocok"] == "Kampus", "probabilitas"] += 5
-
-    df["probabilitas"] = df["probabilitas"].clip(0, 100)
+        df.loc[df["lokasi_cocok"] == "Kampus", "probabilitas"] += 4
 
     # ==================================================
-    # 6. 🔥 AGGREGATION FIX (ANTI DUPLIKASI USAHA)
+    # 5.5 🔥 REALISTIC CLAMP (ANTI 100%)
+    # ==================================================
+    df["probabilitas"] = df["probabilitas"].clip(45, 92)
+
+    # ==================================================
+    # 6. AGGREGATION FIX (EXISTING – ANTI DUPLIKASI)
     # ==================================================
     df_agg = (
         df
@@ -125,19 +143,18 @@ def run_prediction(form):
     top_df = df_agg.head(2)
 
     # ==================================================
-    # 7. 🔥 BUILD OUTPUT (RANKING-BASED LABEL)
+    # 7. Build Output (EXISTING)
     # ==================================================
     results = []
-
-    for idx, (_, row) in enumerate(top_df.iterrows()):
+    for idx, row in top_df.iterrows():
         prob = round(row["probabilitas"], 2)
 
         if idx == 0:
             label = "Sangat Layak Direkomendasikan"
-            label_color = "success"   # 🟢 utama
+            label_color = "success"
         else:
             label = "Alternatif Usaha Potensial"
-            label_color = "warning"   # 🟡 pembanding
+            label_color = "warning"
 
         results.append({
             "nama_usaha": row["nama_usaha"],
